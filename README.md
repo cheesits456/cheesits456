@@ -12,7 +12,7 @@ Over the last few years, my knowledge and experience with NodeJS have expanded, 
 
 ## Show your support
 
-Give a ⭐️ if you like my work, or perhaps even [<img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" align="top" height="30px" alt="buy me a coffee">](https://donate.haileybot.com) ? 
+Follow me if you like my work, or perhaps even [<img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" align="top" height="30px" alt="buy me a coffee">](https://donate.haileybot.com) ? 
 
 [website]:	https://img.shields.io/badge/-Website-e722e7?style=for-the-badge
 [discord]:	https://img.shields.io/badge/-Discord-e722e7?style=for-the-badge
