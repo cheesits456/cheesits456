@@ -1,3 +1,5 @@
+# Quin Knight ​ ​ [![Website][website]](https://cheesits456.dev) [![Discord][discord]](https://discord.gg/7QH4YeD) [![EMail][email]](mailto:quin@cheesits456.dev)
+
 ## About
 
 I am a NodeJS developer with 11 years of coding experience.
@@ -8,9 +10,7 @@ My goal with coding is to help others. I enjoy being able to create something th
 
 Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES6. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.
 
-[![Website][website]](https://cheesits456.dev)
-[![Discord][discord]](https://discord.gg/7QH4YeD)
-[![EMail][email]](mailto:quin@cheesits456.dev)
+---
 
 ## Show your support
 
