@@ -10,8 +10,6 @@ My goal with coding is to help others. I enjoy being able to create something th
 
 Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES6. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.
 
----
-
 ## Show your support
 
 Give a ⭐️ if you like my work, or perhaps even [<img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" align="top" height="30px" alt="buy me a coffee">](https://donate.haileybot.com) ? 
