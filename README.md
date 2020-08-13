@@ -12,7 +12,7 @@
 
 <img alt="cheesits456's GitHub Stats" align="left" width="55%" src="https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&title_color=9522ef&count_private=true&show_icons=true&icon_color=9522ef">
 
-<img alt="cheesits456's Top Languages" width="42.9%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&title_color=2c75ff&layout=compact&hide=batchfile,shell&card_width=320">
+<img alt="cheesits456's Top Languages" width="42%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&title_color=2c75ff&layout=compact&hide=batchfile,shell&card_width=320">
 
 <p align="center">
 	<img alt="Website" width="100px" height="35px" src="https://img.shields.io/badge/-Website-e722e7?style=for-the-badge">
