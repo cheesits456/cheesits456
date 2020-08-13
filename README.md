@@ -10,8 +10,8 @@
 
 <br>
 
-<img alt="cheesits456's GitHub Stats" align="left" width="55%" src="https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&title_color=9522ef&count_private=true&show_icons=true&icon_color=9522ef">
-<img alt="cheesits456's Top Languages" width="42%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&title_color=2c75ff&layout=compact&hide=batchfile,shell&card_width=320">
+<img alt="cheesits456's GitHub Stats" align="left" src="https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&title_color=9522ef&count_private=true&show_icons=true&icon_color=9522ef">
+<img alt="cheesits456's Top Languages" align="left" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&title_color=2c75ff&layout=compact&hide=batchfile,shell">
 
 <p align="center">
 	<img alt="Website" width="100px" height="35px" src="https://img.shields.io/badge/-Website-e722e7?style=for-the-badge">
@@ -24,3 +24,7 @@
 ## Show your support
 
 Follow me if you like my work, or perhaps even [<img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" align="top" height="25px" alt="buy me a coffee">](https://donate.haileybot.com) ?
+
+<col align="left">this is a test</col>
+
+<col align="right">testing 123</col>
