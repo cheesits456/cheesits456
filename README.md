@@ -22,14 +22,10 @@ Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
 [![Discord][discord-img]][discord-link]
 [![E-Mail][email-img]][email-link]
 
-<br><br><br>
+---
 
-<a href="#">
-	<img alt="cheesits456's GitHub Stats" align="left" height="190px" src="https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&title_color=9522ef&count_private=true&show_icons=true&icon_color=9522ef">
-</a>
-<a href="#">
-	<img alt="cheesits456's Top Languages" align="left" height="190px" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&title_color=2c75ff&layout=compact&card_width=250">
-</a>
+![cheesits456's GitHub Stats][github-stats-img]
+![cheesits456's Top Languages][github-langs-img]
 
 
 
@@ -42,3 +38,6 @@ Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
 [discord-link]: https://discord.gg/7QH4YeD
 [email-img]: https://img.shields.io/badge/-E--Mail-e722e7?style=for-the-badge
 [email-link]: mailto:quin@cheesits456.dev
+
+[github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&title_color=9522ef&count_private=true&show_icons=true&icon_color=9522ef
+[github-langs-img]: https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&title_color=2c75ff
