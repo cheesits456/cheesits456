@@ -1,4 +1,4 @@
-# cheesits456 ![Hits](http://hits.dwyl.com/cheesits456/cheesits456.svg)
+[![Banner][banner-img]][banner-link]
 
 ## About Me
 
@@ -29,6 +29,9 @@ Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
 
 
 <!-- Link anchors -->
+[banner-img]: https://raw.githubusercontent.com/cheesits456/cheesits456/master/personal-banner.gif
+[banner-link]: https://social.cheesits456.dev
+
 [donate]: https://donate.haileybot.com
 
 [website-img]: https://img.shields.io/badge/-Website-e722e7?style=for-the-badge
