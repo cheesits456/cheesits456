@@ -11,10 +11,10 @@
 <br>
 
 <a href="#">
-	<img alt="cheesits456's GitHub Stats" align="left" height="200px" src="https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&title_color=9522ef&count_private=true&show_icons=true&icon_color=9522ef">
+	<img alt="cheesits456's GitHub Stats" align="left" height="190px" src="https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&title_color=9522ef&count_private=true&show_icons=true&icon_color=9522ef">
 </a>
 <a href="#">
-	<img alt="cheesits456's Top Languages" align="left" height="200px" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&title_color=2c75ff&layout=compact&card_width=250">
+	<img alt="cheesits456's Top Languages" align="left" height="190px" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&title_color=2c75ff&layout=compact&card_width=250">
 </a>
 
 <br><br><hr>
