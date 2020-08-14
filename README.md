@@ -8,18 +8,15 @@
 
 <p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES6. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
 
-<br>
 
-<a href="#">
-	<img alt="cheesits456's GitHub Stats" align="left" height="190px" src="https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&title_color=9522ef&count_private=true&show_icons=true&icon_color=9522ef">
-</a>
-<a href="#">
-	<img alt="cheesits456's Top Languages" align="left" height="190px" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&title_color=2c75ff&layout=compact&card_width=250">
-</a>
 
-<br><br><hr>
+## Show your support
 
-<p align="center">
+Follow me if you like my work, or perhaps even [<img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" align="top" height="25px" alt="buy me a coffee">](https://donate.haileybot.com) ?
+
+## Get in Touch!
+
+<p align="left">
 	<img alt="Website" width="100px" height="35px" src="https://img.shields.io/badge/-Website-e722e7?style=for-the-badge">
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img alt="Discord" width="100px" height="35px" src="https://img.shields.io/badge/-Discord-e722e7?style=for-the-badge">
@@ -27,6 +24,9 @@
 	<img alt="E-Mail"  width="100px" height="35px" src="https://img.shields.io/badge/-E--Mail-e722e7?style=for-the-badge">
 </p>
 
-## Show your support
-
-Follow me if you like my work, or perhaps even [<img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" align="top" height="25px" alt="buy me a coffee">](https://donate.haileybot.com) ?
+<a href="#">
+	<img alt="cheesits456's GitHub Stats" align="left" height="190px" src="https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&title_color=9522ef&count_private=true&show_icons=true&icon_color=9522ef">
+</a>
+<a href="#">
+	<img alt="cheesits456's Top Languages" align="left" height="190px" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&title_color=2c75ff&layout=compact&card_width=250">
+</a>
