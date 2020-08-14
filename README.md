@@ -2,9 +2,9 @@
 
 ## About Me
 
-<img align="right" alt="cheesits456's Top Languages" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&title_color=2c75ff">
-
 <p align="justify">I am a NodeJS developer with 11 years of coding experience.</p>
+
+<img align="right" alt="cheesits456's Top Languages" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&title_color=2c75ff">
 
 <p align="justify">I started in 2009 with HTML and CSS, making simple static web pages and expanding my knowledge over time. Around 2010/2011, I started to learn how to use JavaScript to create dynamic web apps. During this time I also learned a version of BASIC so I could program games for my 3DS, using a DSi app called Petit Computer. In 2015 I found NodeJS, and started using it to create some basic bots for various chat platforms.</p>
 
