@@ -10,21 +10,20 @@
 
 <p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES6. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
 
+![cheesits456's GitHub Stats][github-stats-img]
+
 ![cheesits456's Top Languages][github-langs-img]
 
 ## Show your support
 
 Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
 
-## Get in Touch!
-
-[![Website][website-img]][website-link]
-[![Discord][discord-img]][discord-link]
-[![E-Mail][email-img]][email-link]
-
 ---
 
-![cheesits456's GitHub Stats][github-stats-img]
+### Pinned
+
+[![cheesits456.github.io][pin1-img]][pin1-link]
+[![NewDiscordBridge][pin2-img]][pin2-link]
 
 
 
@@ -43,3 +42,8 @@ Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
 
 [github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&title_color=9522ef&count_private=true&show_icons=true&icon_color=9522ef
 [github-langs-img]: https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact
+
+[pin1-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=cheesits456&repo=cheesits456.github.io
+[pin1-link]: https://github.com/cheesits456/cheesits456.github.io
+[pin2-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=cheesits456&repo=NewDiscordBridge
+[pin2-link]: https://github.com/cheesits456/NewDiscordBridge
