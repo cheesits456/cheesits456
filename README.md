@@ -23,7 +23,9 @@ Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
 ### Pinned
 
 [![cheesits456.github.io][pin1-img]][pin1-link]
-[![NewDiscordBridge][pin2-img]][pin2-link]
+[![HaileyBot/haileybot.github.io][pin2-img]][pin2-link]
+[![NewDiscordBridge][pin3-img]][pin3-link]
+[![HaileyBot/captcha-generator][pin4-img]][pin4-link]
 
 
 
@@ -45,5 +47,9 @@ Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
 
 [pin1-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=cheesits456&repo=cheesits456.github.io
 [pin1-link]: https://github.com/cheesits456/cheesits456.github.io
-[pin2-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=cheesits456&repo=NewDiscordBridge
-[pin2-link]: https://github.com/cheesits456/NewDiscordBridge
+[pin2-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=haileybot.github.io&show_owner=true
+[pin2-link]: https://github.com/HaileyBot/haileybot.github.io
+[pin3-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=cheesits456&repo=NewDiscordBridge
+[pin3-link]: https://github.com/cheesits456/NewDiscordBridge
+[pin4-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=captcha-generator&show_owner=true
+[pin4-link]: https://github.com/HaileyBot/captcha-generator
