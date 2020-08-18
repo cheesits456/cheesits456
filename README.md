@@ -43,7 +43,7 @@ Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
 [email-link]: mailto:quin@cheesits456.dev
 
 [github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&count_private=true&show_icons=true&include_all_commits=true
-[github-langs-img]: https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact
+[github-langs-img]: https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&hide=smarty
 
 [pin1-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=cheesits456&repo=cheesits456.github.io
 [pin1-link]: https://github.com/cheesits456/cheesits456.github.io
