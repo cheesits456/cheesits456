@@ -36,6 +36,8 @@ Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
 [![HaileyBot/haileybot.github.io][pin2-img]][pin2-link]
 [![NewDiscordBridge][pin3-img]][pin3-link]
 [![HaileyBot/captcha-generator][pin4-img]][pin4-link]
+[![discord-ssh-bot][pin5-img]][pin5-link]
+[![HaileyBot/sanitize-role-mentions][pin6-img]][pin6-link]
 
 
 
@@ -63,3 +65,7 @@ Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
 [pin3-link]: https://github.com/cheesits456/NewDiscordBridge
 [pin4-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=captcha-generator&show_owner=true
 [pin4-link]: https://github.com/HaileyBot/captcha-generator
+[pin5-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=cheesits456&repo=discord-ssh-bot
+[pin5-link]: https://github.com/cheesits456/discord-ssh-bot
+[pin6-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=sanitize-role-mentions&show_owner=true
+[pin6-link]: https://github.com/HaileyBot/sanitize-role-mentions
