@@ -19,9 +19,9 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com//cheesits456/discord-ssh-bot/issues/2) in [cheesits456/discord-ssh-bot](https://github.com//cheesits456/discord-ssh-bot)
-2. 🗣 Commented on [#2](https://github.com//cheesits456/discord-ssh-bot/issues/2) in [cheesits456/discord-ssh-bot](https://github.com//cheesits456/discord-ssh-bot)
-3. 🗣 Commented on [#1](https://github.com//HaileyBot/HaileyBot/issues/1) in [HaileyBot/HaileyBot](https://github.com//HaileyBot/HaileyBot)
+1. ❗️ Closed issue [#1](https://github.com//HaileyBot/HaileyBot/issues/1) in [HaileyBot/HaileyBot](https://github.com//HaileyBot/HaileyBot)
+2. ❗️ Closed issue [#2](https://github.com//cheesits456/discord-ssh-bot/issues/2) in [cheesits456/discord-ssh-bot](https://github.com//cheesits456/discord-ssh-bot)
+3. 🗣 Commented on [#2](https://github.com//cheesits456/discord-ssh-bot/issues/2) in [cheesits456/discord-ssh-bot](https://github.com//cheesits456/discord-ssh-bot)
 <!--END_SECTION:activity-->
 
 ## Show your support
