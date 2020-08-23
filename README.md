@@ -19,10 +19,6 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Made **1** commit in [cheesits456/github-activity-readme](https://github.com//cheesits456/github-activity-readme)
-2. 📝 Made **1** commit in [cheesits456/discord-ssh-bot](https://github.com//cheesits456/discord-ssh-bot)
-3. 📝 Made **1** commit in [cheesits456/discord-ssh-bot](https://github.com//cheesits456/discord-ssh-bot)
-<!--END_SECTION:activity-->
 
 ## Show your support
 
