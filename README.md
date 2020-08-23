@@ -10,9 +10,15 @@
 
 <p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES6. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
 
+## Statistics
+
 ![cheesits456's GitHub Stats][github-stats-img]
 
 ![cheesits456's Top Languages][github-langs-img]
+
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
 
 ## Show your support
 
