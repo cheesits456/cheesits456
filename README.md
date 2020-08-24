@@ -19,43 +19,6 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
-2. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)
-3. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
-4. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)
-5. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 9 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
-6. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)
-7. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)
-8. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 6 commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)
-9. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 11 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
-10. <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)
-11. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)
-12. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
-13. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)
-14. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
-15. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)
-16. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
-17. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)
-18. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
-19. <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) to [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
-20. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)
-21. <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [#1](https://github.com//HaileyBot/HaileyBot/issues/1) in [HaileyBot/HaileyBot](https://github.com/HaileyBot/HaileyBot)
-22. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 3 commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)
-23. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)
-24. <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
-25. <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)
-26. <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jashkenas/coffee-script-tmbundle](https://github.com/jashkenas/coffee-script-tmbundle)
-27. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/discord.js](https://github.com/cheesits456/discord.js)
-28. <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sustained/CoffeeScript-Sublime-Plugin](https://github.com/sustained/CoffeeScript-Sublime-Plugin)
-29. <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lucagrulla/node-tail](https://github.com/lucagrulla/node-tail)
-30. <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bevry/cson](https://github.com/bevry/cson)
-31. <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jessepollak/card](https://github.com/jessepollak/card)
-32. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 3 commits in [cheesits456/discord.js](https://github.com/cheesits456/discord.js)
-33. <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jashkenas/coffeescript](https://github.com/jashkenas/coffeescript)
-34. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/github-readme-stats](https://github.com/cheesits456/github-readme-stats)
-35. <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [discordjs/discord.js](https://github.com/discordjs/discord.js) to [cheesits456/discord.js](https://github.com/cheesits456/discord.js)
-36. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 7 commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)
-<!--END_SECTION:activity-->
 
 ## Show your support
 
