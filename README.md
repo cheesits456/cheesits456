@@ -19,6 +19,43 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)
+2. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 2 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
+3. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)
+4. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 9 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
+5. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)
+6. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 2 commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)
+7. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 6 commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)
+8. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 11 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
+9. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)
+10. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 2 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
+11. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)
+12. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
+13. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 2 commits in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)
+14. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
+15. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)
+16. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
+17. <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.svg" align="top" height="18"> Forked [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) to [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)
+18. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 2 commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)
+19. <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.svg" align="top" height="18"> Closed issue [#1](https://github.com//HaileyBot/HaileyBot/issues/1) in [HaileyBot/HaileyBot](https://github.com/HaileyBot/HaileyBot)
+20. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 3 commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)
+21. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 2 commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)
+22. <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.svg" align="top" height="18"> Created repository [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)
+23. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/discord.js](https://github.com/cheesits456/discord.js)
+24. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 3 commits in [cheesits456/discord.js](https://github.com/cheesits456/discord.js)
+25. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/github-readme-stats](https://github.com/cheesits456/github-readme-stats)
+26. <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.svg" align="top" height="18"> Forked [discordjs/discord.js](https://github.com/discordjs/discord.js) to [cheesits456/discord.js](https://github.com/cheesits456/discord.js)
+27. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 7 commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)
+28. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/indent-remover](https://github.com/cheesits456/indent-remover)
+29. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 5 commits in [cheesits456/DSi-space-shooter](https://github.com/cheesits456/DSi-space-shooter)
+30. <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.svg" align="top" height="18"> Forked [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) to [cheesits456/jekyll-now](https://github.com/cheesits456/jekyll-now)
+31. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)
+32. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [HaileyBot/.github](https://github.com/HaileyBot/.github)
+33. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 3 commits in [cheesits456/.github](https://github.com/cheesits456/.github)
+34. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 2 commits in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)
+35. <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.svg" align="top" height="18"> Made 1 commit in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)
+36. <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.svg" align="top" height="18"> Created repository [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)
+<!--END_SECTION:activity-->
 
 ## Show your support
 
