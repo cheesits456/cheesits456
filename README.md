@@ -78,10 +78,6 @@
 `[08/20 06:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/indent-remover](https://github.com/cheesits456/indent-remover)  
 `[08/20 06:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/party-lighting](https://github.com/cheesits456/party-lighting)  
 `[08/20 06:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[08/20 06:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/DSi-space-shooter](https://github.com/cheesits456/DSi-space-shooter)  
-`[08/20 06:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/NewDiscordBridge](https://github.com/cheesits456/NewDiscordBridge)  
-`[08/20 06:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/NewDiscordBridge](https://github.com/cheesits456/NewDiscordBridge)  
-`[08/20 00:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/DSi-space-shooter](https://github.com/cheesits456/DSi-space-shooter)  
 
 </details>
 <!--END_SECTION:activity-->
