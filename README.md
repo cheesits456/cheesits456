@@ -19,6 +19,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/24 10:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [HaileyBot/.github](https://github.com/HaileyBot/.github)  
 `[08/24 08:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordjs/collection](https://github.com/discordjs/collection)  
 `[08/24 06:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [axios/axios](https://github.com/axios/axios)  
 `[08/24 06:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [basecamp/trix](https://github.com/basecamp/trix)  
@@ -28,10 +29,10 @@
 `[08/24 06:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [denoland/deno](https://github.com/denoland/deno)  
 `[08/24 06:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)  
 `[08/24 06:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 3 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/24 06:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 
 <details><summary>Show More</summary>
 
+`[08/24 06:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[08/24 06:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/24 05:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[08/24 05:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 3 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
@@ -77,7 +78,6 @@
 `[08/20 07:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [be5invis/Iosevka](https://github.com/be5invis/Iosevka)  
 `[08/20 06:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light)  
 `[08/20 06:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/indent-remover](https://github.com/cheesits456/indent-remover)  
-`[08/20 06:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/party-lighting](https://github.com/cheesits456/party-lighting)  
 
 </details>
 <!--END_SECTION:activity-->
