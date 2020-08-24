@@ -19,19 +19,23 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[08/24 13:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 4 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/24 13:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 5 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/24 11:34]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [v1.1.7](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.1.7) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/24 11:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[08/24 11:33]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [v1.1.6](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.1.6) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/24 11:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[08/24 11:28]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [v1.1.2](https://github.com/HaileyBot/sanitize-role-mentions/releases/tag/v1.1.2) in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/24 11:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
+`[08/24 11:23]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [v1.1.1](https://github.com/HaileyBot/sanitize-role-mentions/releases/tag/v1.1.1) in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/24 11:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/24 10:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [HaileyBot/.github](https://github.com/HaileyBot/.github)  
+
+<details><summary>Show More</summary>
+
 `[08/24 08:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordjs/collection](https://github.com/discordjs/collection)  
 `[08/24 06:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [axios/axios](https://github.com/axios/axios)  
 `[08/24 06:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [basecamp/trix](https://github.com/basecamp/trix)  
 `[08/24 06:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)  
-
-<details><summary>Show More</summary>
-
 `[08/24 06:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SublimeText/Origami](https://github.com/SublimeText/Origami)  
 `[08/24 06:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SublimeText/AFileIcon](https://github.com/SublimeText/AFileIcon)  
 `[08/24 06:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [denoland/deno](https://github.com/denoland/deno)  
@@ -67,7 +71,6 @@
 `[08/22 23:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/22 10:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)  
 `[08/22 09:47]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
-`[08/22 06:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jashkenas/coffee-script-tmbundle](https://github.com/jashkenas/coffee-script-tmbundle)  
 
 </details>
 <!--END_SECTION:activity-->
