@@ -19,6 +19,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/24 13:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 4 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/24 11:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/24 11:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/24 11:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
@@ -28,10 +29,10 @@
 `[08/24 06:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [axios/axios](https://github.com/axios/axios)  
 `[08/24 06:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [basecamp/trix](https://github.com/basecamp/trix)  
 `[08/24 06:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)  
-`[08/24 06:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SublimeText/Origami](https://github.com/SublimeText/Origami)  
 
 <details><summary>Show More</summary>
 
+`[08/24 06:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SublimeText/Origami](https://github.com/SublimeText/Origami)  
 `[08/24 06:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SublimeText/AFileIcon](https://github.com/SublimeText/AFileIcon)  
 `[08/24 06:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [denoland/deno](https://github.com/denoland/deno)  
 `[08/24 06:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)  
@@ -67,10 +68,6 @@
 `[08/22 10:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)  
 `[08/22 09:47]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/22 06:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jashkenas/coffee-script-tmbundle](https://github.com/jashkenas/coffee-script-tmbundle)  
-`[08/22 06:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/discord.js](https://github.com/cheesits456/discord.js)  
-`[08/22 05:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sustained/CoffeeScript-Sublime-Plugin](https://github.com/sustained/CoffeeScript-Sublime-Plugin)  
-`[08/22 05:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lucagrulla/node-tail](https://github.com/lucagrulla/node-tail)  
-`[08/22 05:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bevry/cson](https://github.com/bevry/cson)  
 
 </details>
 <!--END_SECTION:activity-->
