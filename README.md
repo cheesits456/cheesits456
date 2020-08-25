@@ -10,11 +10,11 @@
 
 <p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES6. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
 
-![cheesits456's GitHub Stats][github-stats-img]
-
 ## My Skills
 
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&hide=smarty" alt="cheesits456's Top Languages" align="right">
+
+![cheesits456's GitHub Stats][github-stats-img]
 
 ### Languages/Frameworks I'm good at:
 
