@@ -49,6 +49,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/25 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 3 commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
+`[08/25 17:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [#1](https://github.com//MrRaiven/sites/issues/1) in [MrRaiven/sites](https://github.com/MrRaiven/sites)  
 `[08/25 17:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 4 commits in [HaileyBot/archive](https://github.com/HaileyBot/archive)  
 `[08/25 16:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [termux/termux-app](https://github.com/termux/termux-app)  
 `[08/25 14:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
@@ -57,11 +59,11 @@
 `[08/25 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/25 14:43]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [v1.1.8](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.1.8) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/25 14:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/25 12:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 11 commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
-`[08/25 07:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [dereknguyen269/dereknguyen269](https://github.com/dereknguyen269/dereknguyen269) to [cheesits456/dereknguyen269](https://github.com/cheesits456/dereknguyen269)  
 
 <details><summary>Show More</summary>
 
+`[08/25 12:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 11 commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
+`[08/25 07:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [dereknguyen269/dereknguyen269](https://github.com/dereknguyen269/dereknguyen269) to [cheesits456/dereknguyen269](https://github.com/cheesits456/dereknguyen269)  
 `[08/25 07:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/25 07:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [#3](https://github.com//cheesits456/discord-ssh-bot/issues/3) in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[08/25 07:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [#3](https://github.com//cheesits456/discord-ssh-bot/issues/3) in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
@@ -104,7 +106,6 @@
 `[08/24 01:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/23 23:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[08/23 21:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 6 commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
-`[08/23 19:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 4 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 
 </details>
 <!--END_SECTION:activity-->
