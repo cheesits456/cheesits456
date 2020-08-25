@@ -26,6 +26,8 @@
 <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" height="42"></a></code>
 <code><a href="https://nodejs.org/en/"><img alt="Node.js" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42"></a></code>
 
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&hide=smarty" alt="cheesits456's Top Languages" align="right">
+
 ### Languages/Frameworks I'm learning:
 
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
@@ -44,8 +46,6 @@
 <code><a href="https://www.ubuntu.com"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
 
 ## Recent GitHub Activity
-
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&hide=smarty" alt="cheesits456's Top Languages" align="right">
 
 <!--START_SECTION:activity-->
 `[08/25 12:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 9 commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
