@@ -19,7 +19,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[08/25 07:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/25 07:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/25 07:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [#3](https://github.com//cheesits456/discord-ssh-bot/issues/3) in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[08/25 07:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [#3](https://github.com//cheesits456/discord-ssh-bot/issues/3) in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[08/25 07:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
@@ -38,11 +38,11 @@
 `[08/24 11:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/24 10:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [HaileyBot/.github](https://github.com/HaileyBot/.github)  
 `[08/24 08:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordjs/collection](https://github.com/discordjs/collection)  
-`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted tag **v0.1.0** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted tag **v0.1.5** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted tag **v0.1.6** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted tag **v0.1.7** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted tag **v0.1.8** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted **v0.1.0** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted **v0.1.5** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted **v0.1.6** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted **v0.1.7** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted **v0.1.8** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/24 06:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [axios/axios](https://github.com/axios/axios)  
 `[08/24 06:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [basecamp/trix](https://github.com/basecamp/trix)  
 `[08/24 06:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)  
@@ -77,7 +77,7 @@
 `[08/23 13:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) to [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/23 13:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[08/23 09:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [#1](https://github.com//HaileyBot/HaileyBot/issues/1) in [HaileyBot/HaileyBot](https://github.com/HaileyBot/HaileyBot)  
-`[08/23 03:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
+`[08/23 03:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 
 </details>
 <!--END_SECTION:activity-->
