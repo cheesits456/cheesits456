@@ -14,7 +14,7 @@
 
 ## My Skills
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456" alt="cheesits456's Top Languages" align="right">
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&hide=smarty" alt="cheesits456's Top Languages" align="right">
 
 ### Languages/Frameworks I'm good at:
 
