@@ -43,10 +43,6 @@
 <code><a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a></code>
 <code><a href="https://www.ubuntu.com"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
 
-
-
-<code><a href="href"><img alt="alt" title="title" src="src" height="42"></a></code>
-
 ## Recent GitHub Activity
 
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&hide=smarty" alt="cheesits456's Top Languages" align="right">
