@@ -10,18 +10,49 @@
 
 <p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES6. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
 
-## Statistics
-
 ![cheesits456's GitHub Stats][github-stats-img]
 
-![cheesits456's Top Languages][github-langs-img]
+## My Skills
+
+### Languages/Frameworks I'm good at:
+
+<code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
+<code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a></code>
+<code><a href="https://discord.js.org"><img alt="discord.js" title="discord.js" src="https://avatars0.githubusercontent.com/u/26492485" height="42"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/ECMAScript"><img alt="ECMAScript 6" title="ECMAScript 6" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" height="42"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a></code>
+<code><a href="http://www.json.org"><img alt="JSON" title="JSON" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" height="42"></a></code>
+<code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" height="42"></a></code>
+<code><a href="https://nodejs.org/en/"><img alt="Node.js" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42"></a></code>
+
+### Languages/Frameworks I'm learning:
+
+<code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
+<code><a href="https://docs.microsoft.com/dotnet/csharp/"><img alt="C#" title="C#" src="https://github.com/cheesits456/cheesits456/raw/master/icons/csharp.png" height="42"></a></code>
+<code><a href="http://coffeescript.org/"><img alt="CoffeeScript" title="CoffeeScript" src="https://github.com/cheesits456/cheesits456/raw/master/icons/coffeescript.png" height="42"></a></code>
+<code><a href="https://www.electronjs.org/"><img alt="Electron" title="Electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" height="42"></a></code>
+<code><a href="https://expressjs.com"><img alt="Express" title="Express" src="https://github.com/cheesits456/cheesits456/raw/master/icons/express.png" height="42"></a></code>
+
+### Environments I work with:
+
+<code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a></code>
+<code><a href="https://github.com/torvalds/linux"><img alt="Linux" title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" height="42"></a></code>
+<code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://github.com/cheesits456/cheesits456/raw/master/icons/npm.png" height="42"></a></code>
+<code><a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" height="42"></a></code>
+<code><a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a></code>
+<code><a href="https://www.ubuntu.com"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
+
+
+
+<code><a href="href"><img alt="alt" title="title" src="src" height="42"></a></code>
 
 ## Recent GitHub Activity
 
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&hide=smarty" alt="cheesits456's Top Languages" align="right">
+
 <!--START_SECTION:activity-->
-`[08/25 12:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 4 commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
-`[08/25 07:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [dereknguyen269/dereknguyen269](https://github.com/dereknguyen269/dereknguyen269) to [cheesits456/dereknguyen269](https://github.com/cheesits456/dereknguyen269)  
-`[08/25 07:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/25 07:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/25 07:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [#3](https://github.com//cheesits456/discord-ssh-bot/issues/3) in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[08/25 07:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [#3](https://github.com//cheesits456/discord-ssh-bot/issues/3) in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[08/25 07:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
@@ -29,22 +60,22 @@
 `[08/25 05:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 6 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/24 11:34]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [v1.1.7](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.1.7) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/24 11:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[08/24 11:33]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [v1.1.6](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.1.6) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[08/24 11:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 <details><summary>Show More</summary>
 
-`[08/24 11:33]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [v1.1.6](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.1.6) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/24 11:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/24 11:28]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [v1.1.2](https://github.com/HaileyBot/sanitize-role-mentions/releases/tag/v1.1.2) in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/24 11:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/24 11:23]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [v1.1.1](https://github.com/HaileyBot/sanitize-role-mentions/releases/tag/v1.1.1) in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/24 11:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/24 10:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [HaileyBot/.github](https://github.com/HaileyBot/.github)  
 `[08/24 08:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordjs/collection](https://github.com/discordjs/collection)  
-`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted **v0.1.0** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted **v0.1.5** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted **v0.1.6** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted **v0.1.7** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted **v0.1.8** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted tag **v0.1.0** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted tag **v0.1.5** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted tag **v0.1.6** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted tag **v0.1.7** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted tag **v0.1.8** from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/24 06:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [axios/axios](https://github.com/axios/axios)  
 `[08/24 06:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [basecamp/trix](https://github.com/basecamp/trix)  
 `[08/24 06:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)  
@@ -77,6 +108,9 @@
 `[08/23 13:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[08/23 13:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/23 13:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) to [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/23 13:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
+`[08/23 09:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [#1](https://github.com//HaileyBot/HaileyBot/issues/1) in [HaileyBot/HaileyBot](https://github.com/HaileyBot/HaileyBot)  
+`[08/23 03:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 
 </details>
 <!--END_SECTION:activity-->
