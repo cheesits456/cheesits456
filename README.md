@@ -49,8 +49,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[08/25 18:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/25 18:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [undefined](undefined) in [dizmoid1233/andromeda](https://github.com/dizmoid1233/andromeda)  
+`[08/25 19:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 2 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[08/25 18:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [7f849a7](https://github.com/dizmoid1233/andromeda/commit/7f849a747df23f29901de1017930cf692f3f54a5#commitcomment-41762870) in [dizmoid1233/andromeda](https://github.com/dizmoid1233/andromeda)  
 `[08/25 18:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [#293](https://github.com//TheBastionBot/Bastion/issues/293) in [TheBastionBot/Bastion](https://github.com/TheBastionBot/Bastion)  
 `[08/25 18:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [#8](https://github.com//austinhuang0131/austinhuang0131.github.io/pull/8) in [austinhuang0131/austinhuang0131.github.io](https://github.com/austinhuang0131/austinhuang0131.github.io)  
 `[08/25 18:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [HaileyBot/austinhuang0131.github.io](https://github.com/HaileyBot/austinhuang0131.github.io)  
@@ -109,7 +109,6 @@
 `[08/24 03:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[08/24 03:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 9 commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/24 01:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
-`[08/23 23:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made 1 commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
