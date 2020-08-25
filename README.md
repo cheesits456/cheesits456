@@ -118,9 +118,7 @@
 
 Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
 
-<br><hr><br>
-
-### Pinned
+## Pinned
 
 [![cheesits456.github.io][pin1-img]][pin1-link]
 [![HaileyBot/haileybot.github.io][pin2-img]][pin2-link]
