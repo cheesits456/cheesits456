@@ -36,6 +36,7 @@
 <code><a href="https://www.electronjs.org/"><img alt="Electron" title="Electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" height="42"></a></code>
 <code><a href="https://expressjs.com"><img alt="Express" title="Express" src="https://github.com/cheesits456/cheesits456/raw/master/icons/express.png" height="42"></a></code>
 <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42"></a></code>
+<code><a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42"></a></code>
 
 ### Environments I work with:
 
