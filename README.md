@@ -50,7 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[08/26 02:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
+`[08/26 06:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[08/26 01:57]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.2`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.2.2) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/26 01:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/26 01:46]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.1-beta`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.2.1-beta) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -107,8 +107,6 @@
 `[08/24 08:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordjs/collection](https://github.com/discordjs/collection)  
 `[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v0.1.0` from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v0.1.5` from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v0.1.6` from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/24 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v0.1.7` from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 
 </details>
 <!--END_SECTION:activity-->
