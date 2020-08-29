@@ -51,9 +51,19 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/29 17:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons)  
+`[08/29 17:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [softvar/enhanced-github](https://github.com/softvar/enhanced-github)  
+`[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zenorocha/codecopy](https://github.com/zenorocha/codecopy)  
+`[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker)  
+`[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions)  
+`[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ovity/octotree](https://github.com/ovity/octotree)  
+`[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)  
 `[08/29 17:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rajkumardusad/Tool-X](https://github.com/rajkumardusad/Tool-X)  
 `[08/29 17:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MasterDevX/Termux-ADB](https://github.com/MasterDevX/Termux-ADB)  
 `[08/29 17:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/HaileyBot](https://github.com/HaileyBot/HaileyBot)  
+
+<details><summary>Show More</summary>
+
 `[08/29 11:28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ShadoianWar/i](https://github.com/ShadoianWar/i) to [cheesits456/i](https://github.com/cheesits456/i)  
 `[08/29 10:01]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//itsthem/itsthem.github.io/pull/1) in [itsthem/itsthem.github.io](https://github.com/itsthem/itsthem.github.io)  
 `[08/29 10:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/itsthem.github.io](https://github.com/cheesits456/itsthem.github.io)  
@@ -61,9 +71,6 @@
 `[08/29 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[08/29 09:34]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.3`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.2.3) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/29 09:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-
-<details><summary>Show More</summary>
-
 `[08/29 06:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[08/29 06:24]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.3`](https://github.com/HaileyBot/sanitize-role-mentions/releases/tag/v1.2.3) in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/29 06:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
@@ -110,9 +117,6 @@
 `[08/25 14:45]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.1.8`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.1.8) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/25 14:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v1.1.8` from [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/25 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/25 14:43]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.1.8`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.1.8) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/25 14:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/25 12:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 
 </details>
 <!--END_SECTION:activity-->
