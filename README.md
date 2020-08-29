@@ -41,6 +41,7 @@
 ### Environments I work with:
 
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a></code>
+<code><a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/cheesits456/cheesits456/raw/master/icons/packages.png" height="42"></a></code>
 <code><a href="https://github.com/torvalds/linux"><img alt="Linux" title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" height="42"></a></code>
 <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a></code>
 <code><a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" height="42"></a></code>
