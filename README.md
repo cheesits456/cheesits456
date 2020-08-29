@@ -12,7 +12,7 @@
 
 ## My Skills
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456" alt="cheesits456's Top Languages" align="right">
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456" alt="cheesits456's Top Languages" align="right" width="350">
 
 ![cheesits456's GitHub Stats][github-stats-img]
 
