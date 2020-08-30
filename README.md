@@ -51,6 +51,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/30 03:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
+`[08/30 03:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/30 00:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/29 22:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [itsthem/itsthem.github.io](https://github.com/itsthem/itsthem.github.io)  
 `[08/29 17:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons)  
@@ -59,11 +61,11 @@
 `[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker)  
 `[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions)  
 `[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ovity/octotree](https://github.com/ovity/octotree)  
-`[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)  
-`[08/29 17:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rajkumardusad/Tool-X](https://github.com/rajkumardusad/Tool-X)  
 
 <details><summary>Show More</summary>
 
+`[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)  
+`[08/29 17:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rajkumardusad/Tool-X](https://github.com/rajkumardusad/Tool-X)  
 `[08/29 17:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MasterDevX/Termux-ADB](https://github.com/MasterDevX/Termux-ADB)  
 `[08/29 17:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/HaileyBot](https://github.com/HaileyBot/HaileyBot)  
 `[08/29 11:28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ShadoianWar/i](https://github.com/ShadoianWar/i) to [cheesits456/i](https://github.com/cheesits456/i)  
@@ -107,8 +109,6 @@
 `[08/25 19:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/25 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[08/25 19:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/25 18:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`7f849a7`](https://github.com/dizmoid1233/andromeda/commit/7f849a747df23f29901de1017930cf692f3f54a5#commitcomment-41762870) in [dizmoid1233/andromeda](https://github.com/dizmoid1233/andromeda)  
-`[08/25 18:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#293`](https://github.com//TheBastionBot/Bastion/issues/293 'Cross guild texting') in [TheBastionBot/Bastion](https://github.com/TheBastionBot/Bastion)  
 
 </details>
 <!--END_SECTION:activity-->
