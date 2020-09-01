@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/01 19:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/01 11:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [holistics/dbml](https://github.com/holistics/dbml)  
 `[08/31 04:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[08/30 18:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
@@ -60,10 +61,10 @@
 `[08/30 00:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/29 22:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [itsthem/itsthem.github.io](https://github.com/itsthem/itsthem.github.io)  
 `[08/29 17:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons)  
-`[08/29 17:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [softvar/enhanced-github](https://github.com/softvar/enhanced-github)  
 
 <details><summary>Show More</summary>
 
+`[08/29 17:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [softvar/enhanced-github](https://github.com/softvar/enhanced-github)  
 `[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zenorocha/codecopy](https://github.com/zenorocha/codecopy)  
 `[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker)  
 `[08/29 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions)  
@@ -108,9 +109,6 @@
 `[08/25 19:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/awesome-github-profile-readme](https://github.com/cheesits456/awesome-github-profile-readme)  
 `[08/25 19:38]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) to [cheesits456/awesome-github-profile-readme](https://github.com/cheesits456/awesome-github-profile-readme)  
 `[08/25 19:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)  
-`[08/25 19:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile)  
-`[08/25 19:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
-`[08/25 19:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 
 </details>
 <!--END_SECTION:activity-->
