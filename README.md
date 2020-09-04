@@ -51,6 +51,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/04 04:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[09/04 03:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/commission-1](https://github.com/cheesits456/commission-1)  
 `[09/03 21:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`0a0467f`](https://github.com/MagicalCat1172/captcha-generator/commit/0a0467f68a96493ee56e3c7d0bea0583f4f64c57#commitcomment-42020924) in [MagicalCat1172/captcha-generator](https://github.com/MagicalCat1172/captcha-generator)  
 `[09/03 21:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/cheesits456/TypeScript-NPM-package/tree/master) in [cheesits456/TypeScript-NPM-package](https://github.com/cheesits456/TypeScript-NPM-package)  
 `[09/03 21:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/TypeScript-NPM-package](https://github.com/cheesits456/TypeScript-NPM-package)  
@@ -59,13 +61,14 @@
 `[09/02 21:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/02 19:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gc/confusables](https://github.com/gc/confusables)  
 `[09/02 17:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#60`](https://github.com//meodai/color-names/issues/60 'Import Paint Color names from https://encycolorpedia.com/') in [meodai/color-names](https://github.com/meodai/color-names)  
-`[09/02 12:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#60`](https://github.com//meodai/color-names/issues/60 'Import Paint Color names from https://encycolorpedia.com/') in [meodai/color-names](https://github.com/meodai/color-names)  
-`[09/02 11:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [meodai/color-names](https://github.com/meodai/color-names) to [cheesits456/color-names](https://github.com/cheesits456/color-names)  
 
 <details><summary>Show More</summary>
 
+`[09/02 12:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#60`](https://github.com//meodai/color-names/issues/60 'Import Paint Color names from https://encycolorpedia.com/') in [meodai/color-names](https://github.com/meodai/color-names)  
+`[09/02 11:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [meodai/color-names](https://github.com/meodai/color-names) to [cheesits456/color-names](https://github.com/cheesits456/color-names)  
 `[09/02 07:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/02 04:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#60`](https://github.com//meodai/color-names/issues/60 'Import Paint Color names from https://encycolorpedia.com/') in [meodai/color-names](https://github.com/meodai/color-names)  
+`[09/01 18:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#343`](https://github.com//gskinner/regexr/pull/343 'Fix typo in recursion description') in [gskinner/regexr](https://github.com/gskinner/regexr)  
 `[09/02 00:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#60`](https://github.com//meodai/color-names/issues/60 'Import Paint Color names from https://encycolorpedia.com/') in [meodai/color-names](https://github.com/meodai/color-names)  
 `[09/01 19:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/01 11:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [holistics/dbml](https://github.com/holistics/dbml)  
@@ -111,7 +114,7 @@
 `[08/26 01:57]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.2`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.2.2) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/26 01:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/26 01:46]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.1-beta`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.2.1-beta) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/26 01:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[08/26 01:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
