@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/06 14:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [0xProject/website](https://github.com/0xProject/website)  
 `[09/06 09:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [0xTracker/0x-tracker-api](https://github.com/0xTracker/0x-tracker-api)  
 `[09/06 06:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/06 00:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twbs/icons](https://github.com/twbs/icons)  
@@ -60,10 +61,10 @@
 `[09/03 21:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/cheesits456/TypeScript-NPM-package/tree/master) in [cheesits456/TypeScript-NPM-package](https://github.com/cheesits456/TypeScript-NPM-package)  
 `[09/03 21:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/TypeScript-NPM-package](https://github.com/cheesits456/TypeScript-NPM-package)  
 `[09/03 17:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ntec-io/Youtube-Channel-Badge](https://github.com/ntec-io/Youtube-Channel-Badge)  
-`[09/03 16:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [interfect/fenix](https://github.com/interfect/fenix)  
 
 <details><summary>Show More</summary>
 
+`[09/03 16:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [interfect/fenix](https://github.com/interfect/fenix)  
 `[09/02 21:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/02 19:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gc/confusables](https://github.com/gc/confusables)  
 `[09/02 17:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#60`](https://github.com//meodai/color-names/issues/60 'Import Paint Color names from https://encycolorpedia.com/') in [meodai/color-names](https://github.com/meodai/color-names)  
@@ -115,7 +116,6 @@
 `[08/26 22:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//cheesits456/commission-1/issues/1 'Deobfuscate the code') in [cheesits456/commission-1](https://github.com/cheesits456/commission-1)  
 `[08/26 06:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[08/26 01:57]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.2`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.2.2) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/26 01:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
