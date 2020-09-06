@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/06 22:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vivirenremoto/squat_captcha](https://github.com/vivirenremoto/squat_captcha)  
 `[09/06 19:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [leeceeksdee/leeceeksdee.github.io](https://github.com/leeceeksdee/leeceeksdee.github.io)  
 `[09/06 14:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [0xProject/website](https://github.com/0xProject/website)  
 `[09/06 09:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [0xTracker/0x-tracker-api](https://github.com/0xTracker/0x-tracker-api)  
@@ -60,10 +61,10 @@
 `[09/04 03:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/commission-1](https://github.com/cheesits456/commission-1)  
 `[09/03 21:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`0a0467f`](https://github.com/MagicalCat1172/captcha-generator/commit/0a0467f68a96493ee56e3c7d0bea0583f4f64c57#commitcomment-42020924) in [MagicalCat1172/captcha-generator](https://github.com/MagicalCat1172/captcha-generator)  
 `[09/03 21:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/cheesits456/TypeScript-NPM-package/tree/master) in [cheesits456/TypeScript-NPM-package](https://github.com/cheesits456/TypeScript-NPM-package)  
-`[09/03 21:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/TypeScript-NPM-package](https://github.com/cheesits456/TypeScript-NPM-package)  
 
 <details><summary>Show More</summary>
 
+`[09/03 21:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/TypeScript-NPM-package](https://github.com/cheesits456/TypeScript-NPM-package)  
 `[09/03 17:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ntec-io/Youtube-Channel-Badge](https://github.com/ntec-io/Youtube-Channel-Badge)  
 `[09/03 16:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [interfect/fenix](https://github.com/interfect/fenix)  
 `[09/02 21:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
