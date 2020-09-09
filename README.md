@@ -51,7 +51,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[09/09 08:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
+`[09/09 09:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`f8e0529`](https://github.com/leeceeksdee/yeeturl/commit/f8e05295b4f437832463f1ffdf04d66e2f22d6d3#commitcomment-42150965) in [leeceeksdee/yeeturl](https://github.com/leeceeksdee/yeeturl)  
+`[09/09 08:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/09 03:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/cheesits456/Number-Guesser/tree/master) in [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/09 03:20]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/09 03:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)  
@@ -60,10 +61,10 @@
 `[09/06 22:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vivirenremoto/squat_captcha](https://github.com/vivirenremoto/squat_captcha)  
 `[09/06 19:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [leeceeksdee/leeceeksdee.github.io](https://github.com/leeceeksdee/leeceeksdee.github.io)  
 `[09/06 14:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [0xProject/website](https://github.com/0xProject/website)  
-`[09/06 09:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [0xTracker/0x-tracker-api](https://github.com/0xTracker/0x-tracker-api)  
 
 <details><summary>Show More</summary>
 
+`[09/06 09:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [0xTracker/0x-tracker-api](https://github.com/0xTracker/0x-tracker-api)  
 `[09/06 06:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/06 00:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twbs/icons](https://github.com/twbs/icons)  
 `[09/04 04:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
@@ -112,7 +113,6 @@
 `[08/29 06:24]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.3`](https://github.com/HaileyBot/sanitize-role-mentions/releases/tag/v1.2.3) in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/29 06:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/29 05:35]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.2`](https://github.com/HaileyBot/sanitize-role-mentions/releases/tag/v1.2.2) in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
-`[08/29 05:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 
 </details>
 <!--END_SECTION:activity-->
