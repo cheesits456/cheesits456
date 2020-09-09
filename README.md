@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/09 03:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/09 03:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/cheesits456/Number-Guesser/tree/master) in [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/09 03:20]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/09 03:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)  
@@ -60,10 +61,10 @@
 `[09/06 19:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [leeceeksdee/leeceeksdee.github.io](https://github.com/leeceeksdee/leeceeksdee.github.io)  
 `[09/06 14:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [0xProject/website](https://github.com/0xProject/website)  
 `[09/06 09:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [0xTracker/0x-tracker-api](https://github.com/0xTracker/0x-tracker-api)  
-`[09/06 06:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 <details><summary>Show More</summary>
 
+`[09/06 06:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/06 00:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twbs/icons](https://github.com/twbs/icons)  
 `[09/04 04:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[09/04 03:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/commission-1](https://github.com/cheesits456/commission-1)  
@@ -117,8 +118,6 @@
 `[08/29 05:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/27 13:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//cheesits456/discord-ssh-bot/issues/4 'cd') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[08/26 22:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4`](https://github.com//cheesits456/discord-ssh-bot/issues/4 'cd') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
-`[08/26 22:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//cheesits456/discord-ssh-bot/issues/4 'cd') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
-`[08/26 22:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/commission-1](https://github.com/cheesits456/commission-1)  
 
 </details>
 <!--END_SECTION:activity-->
