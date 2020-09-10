@@ -51,6 +51,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/10 17:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2`](https://github.com//cheesits456/ReactionPics/pull/2 'Add 2 new images (gh-pages branch)') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
+`[09/10 17:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//cheesits456/ReactionPics/pull/1 'Add 2 new images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/10 14:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[09/09 15:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/09 13:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)  
@@ -59,11 +61,11 @@
 `[09/09 03:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/cheesits456/Number-Guesser/tree/master) in [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/09 03:20]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/09 03:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)  
-`[09/09 03:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [realCartar/Discord-Bot-Dashboard](https://github.com/realCartar/Discord-Bot-Dashboard)  
-`[09/08 16:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [leeceeksdee/yeeturl](https://github.com/leeceeksdee/yeeturl)  
 
 <details><summary>Show More</summary>
 
+`[09/09 03:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [realCartar/Discord-Bot-Dashboard](https://github.com/realCartar/Discord-Bot-Dashboard)  
+`[09/08 16:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [leeceeksdee/yeeturl](https://github.com/leeceeksdee/yeeturl)  
 `[09/06 22:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vivirenremoto/squat_captcha](https://github.com/vivirenremoto/squat_captcha)  
 `[09/06 19:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [leeceeksdee/leeceeksdee.github.io](https://github.com/leeceeksdee/leeceeksdee.github.io)  
 `[09/06 14:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [0xProject/website](https://github.com/0xProject/website)  
@@ -113,8 +115,6 @@
 `[08/29 09:34]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.3`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.2.3) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/29 09:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/29 06:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
-`[08/29 06:24]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.3`](https://github.com/HaileyBot/sanitize-role-mentions/releases/tag/v1.2.3) in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
-`[08/29 06:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 
 </details>
 <!--END_SECTION:activity-->
