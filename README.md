@@ -50,8 +50,6 @@
 
 ## Recent GitHub Activity
 
-Made `6` commits in **<span title="Private Repo">🔒cheesits456/0xDiscordBot</span>**
-
 <!--START_SECTION:activity-->
 `[09/11 03:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[09/11 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
