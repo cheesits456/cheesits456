@@ -51,7 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[09/11 05:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[09/11 05:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[09/11 04:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[09/11 03:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[09/11 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
@@ -67,12 +67,12 @@
 `[09/10 14:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[09/10 14:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[09/10 14:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
-`[09/09 21:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `readme-images` in 🔒cheesits456/0xDiscordBot  
+`[09/09 21:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `readme-images` in <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
 `[09/09 20:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[09/09 15:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/09 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
-`[09/09 13:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in 🔒cheesits456/0xDiscordBot  
-`[09/09 13:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository 🔒cheesits456/0xDiscordBot  
+`[09/09 13:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
+`[09/09 13:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
 `[09/09 13:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)  
 `[09/09 09:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`f8e0529`](https://github.com/leeceeksdee/yeeturl/commit/f8e05295b4f437832463f1ffdf04d66e2f22d6d3#commitcomment-42150965) in [leeceeksdee/yeeturl](https://github.com/leeceeksdee/yeeturl)  
 `[09/09 08:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
@@ -88,8 +88,8 @@
 `[09/06 00:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/0x-Discord-Bot](https://github.com/cheesits456/0x-Discord-Bot)  
 `[09/06 00:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twbs/icons](https://github.com/twbs/icons)  
 `[09/04 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/0x-Discord-Bot](https://github.com/cheesits456/0x-Discord-Bot)  
-`[09/04 04:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in 🔒cheesits456/0x-Discord-Bot  
-`[09/04 04:53]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository 🔒cheesits456/0x-Discord-Bot  
+`[09/04 04:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒cheesits456/0x-Discord-Bot`</span>  
+`[09/04 04:53]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒cheesits456/0x-Discord-Bot`</span>  
 `[09/04 04:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[09/04 03:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/commission-1](https://github.com/cheesits456/commission-1)  
 `[09/03 21:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`0a0467f`](https://github.com/MagicalCat1172/captcha-generator/commit/0a0467f68a96493ee56e3c7d0bea0583f4f64c57#commitcomment-42020924) in [MagicalCat1172/captcha-generator](https://github.com/MagicalCat1172/captcha-generator)  
@@ -97,7 +97,6 @@
 `[09/03 21:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/TypeScript-NPM-package](https://github.com/cheesits456/TypeScript-NPM-package)  
 `[09/03 17:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ntec-io/Youtube-Channel-Badge](https://github.com/ntec-io/Youtube-Channel-Badge)  
 `[09/03 16:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [interfect/fenix](https://github.com/interfect/fenix)  
-`[09/02 21:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
