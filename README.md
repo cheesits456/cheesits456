@@ -51,7 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[09/12 11:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
+`[09/12 11:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
 `[09/12 01:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[09/12 01:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[09/12 01:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
@@ -182,8 +182,6 @@
 `[08/25 14:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v1.1.8` from [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/25 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/25 14:43]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.1.8`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.1.8) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/25 14:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/25 12:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 
 </details>
 <!--END_SECTION:activity-->
