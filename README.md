@@ -190,7 +190,9 @@
 
 ## Show your support
 
-Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
+Follow me if you like my work, or perhaps even [Sponsor Me][sponsor]?
+
+<!--
 
 ## Pinned
 
@@ -201,13 +203,13 @@ Follow me if you like my work, or perhaps even [buy me a coffee][donate]?
 [![discord-ssh-bot][pin5-img]][pin5-link]
 [![HaileyBot/sanitize-role-mentions][pin6-img]][pin6-link]
 
-
+-->
 
 <!-- Link anchors -->
 [banner-img]: https://raw.githubusercontent.com/cheesits456/cheesits456/master/personal-banner.gif
 [banner-link]: https://social.cheesits456.dev
 
-[donate]: https://donate.haileybot.com
+[sponsor]: https://github.com/sponsors/cheesits456
 
 [website-img]: https://img.shields.io/badge/-Website-e722e7?style=for-the-badge
 [website-link]: https://cheesits456.dev
