@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/12 19:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [leeceeksdee/yeeturl-python](https://github.com/leeceeksdee/yeeturl-python)  
 `[09/12 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[09/12 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
 `[09/12 17:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#986`](https://github.com//0xTracker/0x-tracker-client/issues/986 'Add CAD as a currency option') in [0xTracker/0x-tracker-client](https://github.com/0xTracker/0x-tracker-client)  
@@ -60,10 +61,10 @@
 `[09/12 15:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//cheesits456/ReactionPics/issues/4 'GitHub Actions') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/12 15:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3`](https://github.com//cheesits456/ReactionPics/issues/3 'Hello There') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/12 14:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[09/12 14:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//cheesits456/ReactionPics/pull/2 'Add 2 new images (gh-pages branch)') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 <details><summary>Show More</summary>
 
+`[09/12 14:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//cheesits456/ReactionPics/pull/2 'Add 2 new images (gh-pages branch)') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/12 14:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2`](https://github.com//cheesits456/ReactionPics/pull/2 'Add 2 new images (gh-pages branch)') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/12 14:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [leeceeksdee/ReactionPics](https://github.com/leeceeksdee/ReactionPics)  
 `[09/12 14:36]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2`](https://github.com//cheesits456/ReactionPics/pull/2 'Add 2 new images (gh-pages branch)') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -184,7 +185,6 @@
 `[08/25 19:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[08/25 19:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[08/25 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
-`[08/25 19:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 
 </details>
 <!--END_SECTION:activity-->
