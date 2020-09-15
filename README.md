@@ -51,7 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[09/15 08:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
+`[09/15 09:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[09/15 04:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[09/14 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut)  
 `[09/14 00:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`v1.1`](https://github.com/cheesits456/0xDiscordBot/tree/v1.1) in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
@@ -181,7 +181,6 @@
 `[08/29 11:28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ShadoianWar/i](https://github.com/ShadoianWar/i) to [cheesits456/i](https://github.com/cheesits456/i)  
 `[08/29 10:01]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//itsthem/itsthem.github.io/pull/1 'Edit the amount of text used for the link') in [itsthem/itsthem.github.io](https://github.com/itsthem/itsthem.github.io)  
 `[08/29 10:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/itsthem.github.io](https://github.com/cheesits456/itsthem.github.io)  
-`[08/29 09:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [itsthem/itsthem.github.io](https://github.com/itsthem/itsthem.github.io) to [cheesits456/itsthem.github.io](https://github.com/cheesits456/itsthem.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
