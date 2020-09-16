@@ -51,6 +51,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/16 10:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dpobel/github-add-youtube-video](https://github.com/dpobel/github-add-youtube-video)  
+`[09/16 10:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
 `[09/16 09:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/16 09:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/social-links](https://github.com/cheesits456/social-links)  
 `[09/16 07:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)  
@@ -59,11 +61,11 @@
 `[09/15 20:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6`](https://github.com//cheesits456/ReactionPics/issues/6 'add "maybe"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/15 20:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//cheesits456/ReactionPics/issues/6 'add "maybe"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/15 20:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[09/15 19:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#7`](https://github.com//cheesits456/ReactionPics/issues/7 'add "ohyeah"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[09/15 19:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/ReactionPics/issues/7 'add "ohyeah"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 <details><summary>Show More</summary>
 
+`[09/15 19:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#7`](https://github.com//cheesits456/ReactionPics/issues/7 'add "ohyeah"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
+`[09/15 19:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/ReactionPics/issues/7 'add "ohyeah"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/15 19:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/15 19:24]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `patch-1` from [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/15 19:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
@@ -181,8 +183,7 @@
 `[08/30 18:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
 `[08/30 03:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/sanitize-role-mentions](https://github.com/HaileyBot/sanitize-role-mentions)  
 `[08/30 03:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/30 00:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[08/29 22:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [itsthem/itsthem.github.io](https://github.com/itsthem/itsthem.github.io)  
+`[08/30 00:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 
 </details>
 <!--END_SECTION:activity-->
