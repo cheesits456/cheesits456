@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/18 11:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geobarrod/KDE-Services](https://github.com/geobarrod/KDE-Services)  
 `[09/18 04:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)  
 `[09/17 06:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font)  
 `[09/17 06:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font)  
@@ -60,10 +61,10 @@
 `[09/16 12:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
 `[09/16 10:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dpobel/github-add-youtube-video](https://github.com/dpobel/github-add-youtube-video)  
 `[09/16 10:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
-`[09/16 09:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 
 <details><summary>Show More</summary>
 
+`[09/16 09:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/16 09:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/social-links](https://github.com/cheesits456/social-links)  
 `[09/16 07:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)  
 `[09/16 05:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ChristopherHX/linux-packaging-scripts](https://github.com/ChristopherHX/linux-packaging-scripts)  
@@ -180,7 +181,6 @@
 `[09/02 12:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#60`](https://github.com//meodai/color-names/issues/60 'Import Paint Color names from https://encycolorpedia.com/') in [meodai/color-names](https://github.com/meodai/color-names)  
 `[09/02 11:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [meodai/color-names](https://github.com/meodai/color-names) to [cheesits456/color-names](https://github.com/cheesits456/color-names)  
 `[09/02 07:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[09/02 04:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#60`](https://github.com//meodai/color-names/issues/60 'Import Paint Color names from https://encycolorpedia.com/') in [meodai/color-names](https://github.com/meodai/color-names)  
 
 </details>
 <!--END_SECTION:activity-->
