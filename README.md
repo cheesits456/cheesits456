@@ -51,6 +51,34 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [itsthem/itsthem.github.io](https://github.com/itsthem/itsthem.github.io)  
+`[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BitJanitor/BitJanitor](https://github.com/BitJanitor/BitJanitor)  
+`[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BitJanitor/bitjanitor.github.io](https://github.com/BitJanitor/bitjanitor.github.io)  
+`[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lavishmotorcustoms/lavishmotorcustoms.github.io](https://github.com/lavishmotorcustoms/lavishmotorcustoms.github.io)  
+`[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zuccbot/social-links](https://github.com/zuccbot/social-links)  
+`[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zuccbot/zuccbot.github.io](https://github.com/zuccbot/zuccbot.github.io)  
+`[09/21 16:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HaileyBot/changelog](https://github.com/HaileyBot/changelog)  
+`[09/21 16:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HaileyBot/api](https://github.com/HaileyBot/api)  
+`[09/21 16:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HaileyBot/.github](https://github.com/HaileyBot/.github)  
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+
+<details><summary>Show More</summary>
+
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred <span title="Private Repo">`🔒cheesits456/nodejs-developer-course`</span>  
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred <span title="Private Repo">`🔒cheesits456/web-developer-course`</span>  
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred <span title="Private Repo">`🔒cheesits456/cheesits456.github.io_old`</span>  
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/archive.cheesits456.dev](https://github.com/cheesits456/archive.cheesits456.dev)  
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/github-readme-stats](https://github.com/cheesits456/github-readme-stats)  
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/commission-1](https://github.com/cheesits456/commission-1)  
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/TypeScript-NPM-package](https://github.com/cheesits456/TypeScript-NPM-package)  
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/itsthem.github.io](https://github.com/cheesits456/itsthem.github.io)  
+`[09/21 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/awesome-github-profile-readme](https://github.com/cheesits456/awesome-github-profile-readme)  
+`[09/21 16:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/.github](https://github.com/cheesits456/.github)  
+`[09/21 16:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/grad](https://github.com/cheesits456/grad)  
+`[09/21 16:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/discord-mod-bot](https://github.com/cheesits456/discord-mod-bot)  
 `[09/21 14:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)  
 `[09/21 02:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/archive.cheesits456.dev](https://github.com/cheesits456/archive.cheesits456.dev)  
 `[09/20 17:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
@@ -61,9 +89,6 @@
 `[09/18 20:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lestofante/ksysguard-gpu](https://github.com/lestofante/ksysguard-gpu)  
 `[09/18 11:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geobarrod/KDE-Services](https://github.com/geobarrod/KDE-Services)  
 `[09/18 04:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)  
-
-<details><summary>Show More</summary>
-
 `[09/17 06:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font)  
 `[09/17 06:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font)  
 `[09/17 01:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Pr0cella/glassy-kde](https://github.com/Pr0cella/glassy-kde)  
@@ -170,18 +195,6 @@
 `[09/06 19:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [leeceeksdee/leeceeksdee.github.io](https://github.com/leeceeksdee/leeceeksdee.github.io)  
 `[09/06 14:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [0xProject/website](https://github.com/0xProject/website)  
 `[09/06 09:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [0xTracker/0x-tracker-api](https://github.com/0xTracker/0x-tracker-api)  
-`[09/06 06:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[09/06 00:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/0x-Discord-Bot`</span>  
-`[09/06 00:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twbs/icons](https://github.com/twbs/icons)  
-`[09/04 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒cheesits456/0x-Discord-Bot`</span>  
-`[09/04 04:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒cheesits456/0x-Discord-Bot`</span>  
-`[09/04 04:53]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒cheesits456/0x-Discord-Bot`</span>  
-`[09/04 04:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[09/04 03:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/commission-1](https://github.com/cheesits456/commission-1)  
-`[09/03 21:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`0a0467f`](https://github.com/MagicalCat1172/captcha-generator/commit/0a0467f68a96493ee56e3c7d0bea0583f4f64c57#commitcomment-42020924) in [MagicalCat1172/captcha-generator](https://github.com/MagicalCat1172/captcha-generator)  
-`[09/03 21:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/cheesits456/TypeScript-NPM-package/tree/master) in [cheesits456/TypeScript-NPM-package](https://github.com/cheesits456/TypeScript-NPM-package)  
-`[09/03 21:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/TypeScript-NPM-package](https://github.com/cheesits456/TypeScript-NPM-package)  
-`[09/03 17:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ntec-io/Youtube-Channel-Badge](https://github.com/ntec-io/Youtube-Channel-Badge)  
 
 </details>
 <!--END_SECTION:activity-->
