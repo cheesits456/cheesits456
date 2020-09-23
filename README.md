@@ -196,7 +196,7 @@
 `[09/10 17:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//cheesits456/ReactionPics/pull/1 'Add 2 new images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/10 14:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
 `[09/10 14:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
-`[09/10 14:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
+`[09/10 14:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
 
 </details>
 <!--END_SECTION:activity-->
