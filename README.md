@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/27 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[09/27 13:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev)  
 `[09/27 13:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nodejs/node](https://github.com/nodejs/node)  
 `[09/23 14:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
@@ -60,10 +61,10 @@
 `[09/22 09:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TheAlchemyShop/thealchemyshop.github.io](https://github.com/TheAlchemyShop/thealchemyshop.github.io)  
 `[09/22 09:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BitJanitor/bitjanitor.github.io](https://github.com/BitJanitor/bitjanitor.github.io)  
 `[09/22 09:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/shop](https://github.com/HaileyBot/shop)  
-`[09/22 09:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/archive](https://github.com/HaileyBot/archive)  
 
 <details><summary>Show More</summary>
 
+`[09/22 09:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/archive](https://github.com/HaileyBot/archive)  
 `[09/22 09:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
 `[09/22 09:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/archive.cheesits456.dev](https://github.com/cheesits456/archive.cheesits456.dev)  
 `[09/22 09:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
@@ -198,7 +199,7 @@
 `[09/10 17:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//cheesits456/ReactionPics/pull/1 'Add 2 new images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/10 14:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
 `[09/10 14:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
-`[09/10 14:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
+`[09/10 14:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
 
 </details>
 <!--END_SECTION:activity-->
