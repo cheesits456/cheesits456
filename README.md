@@ -51,19 +51,23 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/06 18:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/Quack](https://github.com/cheesits456/Quack)  
+`[10/06 18:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [copsahl/Quack](https://github.com/copsahl/Quack) to [cheesits456/Quack](https://github.com/cheesits456/Quack)  
+`[10/06 17:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
+`[10/06 17:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/06 03:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[10/05 06:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SeanSobey/ChartjsNodeCanvas](https://github.com/SeanSobey/ChartjsNodeCanvas)  
 `[10/04 16:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/04 05:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[10/04 05:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/04 05:02]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`readme-images`](https://github.com/cheesits456/dot-files/tree/readme-images) in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
+
+<details><summary>Show More</summary>
+
 `[10/04 04:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/04 01:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [cheesits456/configurations](https://github.com/cheesits456/configurations)  
 `[10/02 13:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#9`](https://github.com//cheesits456/ReactionPics/issues/9 'Convert "thonk" image to a PNG') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/01 21:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Dinnerbone/mcstatus](https://github.com/Dinnerbone/mcstatus)  
-
-<details><summary>Show More</summary>
-
 `[10/01 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/configurations](https://github.com/cheesits456/configurations)  
 `[09/30 07:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/configurations/tree/main) in [cheesits456/configurations](https://github.com/cheesits456/configurations)  
 `[09/30 07:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/configurations](https://github.com/cheesits456/configurations)  
@@ -208,10 +212,6 @@
 `[09/12 14:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2`](https://github.com//cheesits456/ReactionPics/pull/2 'Add 2 new images (gh-pages branch)') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/12 14:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [leeceeksdee/ReactionPics](https://github.com/leeceeksdee/ReactionPics)  
 `[09/12 14:36]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2`](https://github.com//cheesits456/ReactionPics/pull/2 'Add 2 new images (gh-pages branch)') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[09/12 14:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[09/12 14:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//cheesits456/ReactionPics/pull/1 'Add 2 new images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[09/12 14:33]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//cheesits456/ReactionPics/pull/1 'Add 2 new images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[09/12 11:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒cheesits456/0xDiscordBot`</span>  
 
 </details>
 <!--END_SECTION:activity-->
