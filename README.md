@@ -51,7 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[10/06 19:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
+`[10/06 20:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[10/06 18:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/Quack](https://github.com/cheesits456/Quack)  
 `[10/06 18:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [copsahl/Quack](https://github.com/copsahl/Quack)  
 `[10/06 18:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//copsahl/Quack/pull/1 'Fix a typo') in [copsahl/Quack](https://github.com/copsahl/Quack)  
@@ -209,7 +209,6 @@
 `[09/12 17:11]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#981`](https://github.com//0xTracker/0x-tracker-client/pull/981 'Fix firefox scroll issue') in [0xTracker/0x-tracker-client](https://github.com/0xTracker/0x-tracker-client)  
 `[09/12 15:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//leeceeksdee/ReactionPics/pull/1 'Delete CNAME') in [leeceeksdee/ReactionPics](https://github.com/leeceeksdee/ReactionPics)  
 `[09/12 15:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[09/12 15:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//cheesits456/ReactionPics/issues/4 'GitHub Actions') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
