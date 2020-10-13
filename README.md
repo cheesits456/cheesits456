@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/13 13:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/13 08:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [powercord-org/powercord](https://github.com/powercord-org/powercord)  
 `[10/13 06:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#176`](https://github.com//fork-maintainers/iceraven-browser/issues/176 'Request for Save as PDF') in [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)  
 `[10/12 11:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#81`](https://github.com//MrPotatoBobx/FetchCord/issues/81 'Unknown Host') in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)  
@@ -60,10 +61,10 @@
 `[10/12 10:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-kde](https://github.com/daniruiz/flat-remix-kde)  
 `[10/12 10:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css)  
 `[10/12 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk)  
-`[10/12 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix)  
 
 <details><summary>Show More</summary>
 
+`[10/12 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix)  
 `[10/12 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-gnome](https://github.com/daniruiz/flat-remix-gnome)  
 `[10/12 03:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#8`](https://github.com//cheesits456/ReactionPics/issues/8 'Add "awman"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/12 03:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -219,7 +220,7 @@
 `[09/15 19:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[09/15 18:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`v1.0`](https://github.com/cheesits456/0xDiscordBot/tree/v1.0) in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[09/15 12:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
-`[09/15 11:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
+`[09/15 11:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 
 </details>
 <!--END_SECTION:activity-->
