@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/13 19:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#176`](https://github.com//fork-maintainers/iceraven-browser/issues/176 'Request for Save as PDF') in [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)  
 `[10/13 13:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#13`](https://github.com//cheesits456/ReactionPics/issues/13 'Add "bruh" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/13 13:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/13 08:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [powercord-org/powercord](https://github.com/powercord-org/powercord)  
@@ -60,10 +61,10 @@
 `[10/12 10:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [busyloop/lolcat](https://github.com/busyloop/lolcat)  
 `[10/12 10:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/dotfiles](https://github.com/daniruiz/dotfiles)  
 `[10/12 10:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-kde](https://github.com/daniruiz/flat-remix-kde)  
-`[10/12 10:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css)  
 
 <details><summary>Show More</summary>
 
+`[10/12 10:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css)  
 `[10/12 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk)  
 `[10/12 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix)  
 `[10/12 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-gnome](https://github.com/daniruiz/flat-remix-gnome)  
