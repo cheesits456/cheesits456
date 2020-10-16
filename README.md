@@ -51,6 +51,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/16 08:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/asciibots-bash/tree/main) in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
+`[10/16 08:07]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
 `[10/16 07:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[10/16 05:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)  
 `[10/15 20:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
@@ -59,11 +61,11 @@
 `[10/15 02:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#16`](https://github.com//cheesits456/ReactionPics/issues/16 'replace "bye" image with this one') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/15 02:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#15`](https://github.com//cheesits456/ReactionPics/issues/15 'rename "dunno" to "shrug"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/14 00:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
-`[10/13 19:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#176`](https://github.com//fork-maintainers/iceraven-browser/issues/176 'Request for Save as PDF') in [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)  
-`[10/13 13:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#13`](https://github.com//cheesits456/ReactionPics/issues/13 'Add "bruh" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 <details><summary>Show More</summary>
 
+`[10/13 19:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#176`](https://github.com//fork-maintainers/iceraven-browser/issues/176 'Request for Save as PDF') in [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)  
+`[10/13 13:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#13`](https://github.com//cheesits456/ReactionPics/issues/13 'Add "bruh" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/13 13:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/13 08:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [powercord-org/powercord](https://github.com/powercord-org/powercord)  
 `[10/13 06:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#176`](https://github.com//fork-maintainers/iceraven-browser/issues/176 'Request for Save as PDF') in [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)  
@@ -218,8 +220,6 @@
 `[09/16 09:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[09/16 09:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/social-links](https://github.com/cheesits456/social-links)  
 `[09/16 07:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)  
-`[09/16 05:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ChristopherHX/linux-packaging-scripts](https://github.com/ChristopherHX/linux-packaging-scripts)  
-`[09/16 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 
 </details>
 <!--END_SECTION:activity-->
