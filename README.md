@@ -51,6 +51,9 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/16 12:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
+`[10/16 11:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mattes/go-asciibot](https://github.com/mattes/go-asciibot)  
+`[10/16 11:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [walsh9/asciibots](https://github.com/walsh9/asciibots)  
 `[10/16 10:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
 `[10/16 09:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
 `[10/16 09:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`readme-images`](https://github.com/cheesits456/asciibots-bash/tree/readme-images) in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
@@ -58,12 +61,12 @@
 `[10/16 08:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/asciibots-bash/tree/main) in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
 `[10/16 08:07]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
 `[10/16 07:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
-`[10/16 05:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)  
-`[10/15 20:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
-`[10/15 09:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 
 <details><summary>Show More</summary>
 
+`[10/16 05:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)  
+`[10/15 20:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
+`[10/15 09:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/15 02:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#17`](https://github.com//cheesits456/ReactionPics/issues/17 'Make GitHub action able to edit existing images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/15 02:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#16`](https://github.com//cheesits456/ReactionPics/issues/16 'replace "bye" image with this one') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/15 02:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#15`](https://github.com//cheesits456/ReactionPics/issues/15 'rename "dunno" to "shrug"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -216,9 +219,7 @@
 `[09/17 06:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font)  
 `[09/17 06:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font)  
 `[09/17 01:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Pr0cella/glassy-kde](https://github.com/Pr0cella/glassy-kde)  
-`[09/16 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
-`[09/16 12:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)  
-`[09/16 12:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
+`[09/16 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
 
 </details>
 <!--END_SECTION:activity-->
