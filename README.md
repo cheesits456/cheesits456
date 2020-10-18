@@ -51,7 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[10/18 05:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
+`[10/18 18:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/16 12:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lightcord/Lightcord](https://github.com/Lightcord/Lightcord)  
 `[10/16 12:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
 `[10/16 11:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mattes/go-asciibot](https://github.com/mattes/go-asciibot)  
@@ -220,8 +220,6 @@
 `[09/18 04:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)  
 `[09/17 06:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font)  
 `[09/17 06:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font)  
-`[09/17 01:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Pr0cella/glassy-kde](https://github.com/Pr0cella/glassy-kde)  
-`[09/16 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
 
 </details>
 <!--END_SECTION:activity-->
