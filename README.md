@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/18 19:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[10/18 18:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/16 12:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lightcord/Lightcord](https://github.com/Lightcord/Lightcord)  
 `[10/16 12:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
@@ -60,10 +61,10 @@
 `[10/16 09:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
 `[10/16 09:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`readme-images`](https://github.com/cheesits456/asciibots-bash/tree/readme-images) in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
 `[10/16 09:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
-`[10/16 08:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/asciibots-bash/tree/main) in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
 
 <details><summary>Show More</summary>
 
+`[10/16 08:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/asciibots-bash/tree/main) in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
 `[10/16 08:07]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
 `[10/16 07:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[10/16 05:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)  
@@ -219,7 +220,6 @@
 `[09/18 11:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geobarrod/KDE-Services](https://github.com/geobarrod/KDE-Services)  
 `[09/18 04:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)  
 `[09/17 06:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font)  
-`[09/17 06:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font)  
 
 </details>
 <!--END_SECTION:activity-->
