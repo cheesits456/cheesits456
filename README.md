@@ -51,7 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[10/18 20:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
+`[10/18 20:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[10/18 18:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/16 12:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lightcord/Lightcord](https://github.com/Lightcord/Lightcord)  
 `[10/16 12:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
@@ -217,7 +217,6 @@
 `[09/20 16:51]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/archive.cheesits456.dev](https://github.com/cheesits456/archive.cheesits456.dev)  
 `[09/20 13:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kaptn3/future-imperfect](https://github.com/kaptn3/future-imperfect)  
 `[09/18 20:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lestofante/ksysguard-gpu](https://github.com/lestofante/ksysguard-gpu)  
-`[09/18 11:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geobarrod/KDE-Services](https://github.com/geobarrod/KDE-Services)  
 
 </details>
 <!--END_SECTION:activity-->
