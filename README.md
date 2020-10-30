@@ -209,8 +209,6 @@
 `[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BitJanitor/bitjanitor.github.io](https://github.com/BitJanitor/bitjanitor.github.io)  
 `[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lavishmotorcustoms/lavishmotorcustoms.github.io](https://github.com/lavishmotorcustoms/lavishmotorcustoms.github.io)  
 `[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zuccbot/social-links](https://github.com/zuccbot/social-links)  
-`[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zuccbot/zuccbot.github.io](https://github.com/zuccbot/zuccbot.github.io)  
-`[09/21 16:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HaileyBot/changelog](https://github.com/HaileyBot/changelog)  
 
 </details>
 <!--END_SECTION:activity-->
