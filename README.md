@@ -51,19 +51,24 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/31 11:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gobolinux/Installer](https://github.com/gobolinux/Installer)  
+`[10/31 11:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gobolinux/gobolinux.org](https://github.com/gobolinux/gobolinux.org)  
+`[10/31 11:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gobolinux/Compile](https://github.com/gobolinux/Compile)  
+`[10/31 11:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gobolinux/Scripts](https://github.com/gobolinux/Scripts)  
+`[10/31 11:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gobolinux/Recipes](https://github.com/gobolinux/Recipes)  
 `[10/31 04:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/archive.cheesits456.dev](https://github.com/cheesits456/archive.cheesits456.dev)  
 `[10/31 04:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
 `[10/31 04:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/antoniof/local_vs_native_fixup` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-32` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
+
+<details><summary>Show More</summary>
+
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/antoniof/list-view-dnd-hover-style-fixes` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `sam/tag-manager-test` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-34` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/antoniof/deep-size-hidden-files` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/oholy/ci` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-
-<details><summary>Show More</summary>
-
 `[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-28` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `antoniof/goodbye-morphing-pathbar` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/oholy/about-website` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
@@ -250,8 +255,6 @@
 `[10/04 05:02]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`readme-images`](https://github.com/cheesits456/dot-files/tree/readme-images) in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/04 04:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/04 01:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [cheesits456/configurations](https://github.com/cheesits456/configurations)  
-`[10/02 13:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#9`](https://github.com//cheesits456/ReactionPics/issues/9 'Convert "thonk" image to a PNG') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[10/01 21:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Dinnerbone/mcstatus](https://github.com/Dinnerbone/mcstatus)  
 
 </details>
 <!--END_SECTION:activity-->
