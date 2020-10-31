@@ -252,8 +252,6 @@
 `[10/04 01:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [cheesits456/configurations](https://github.com/cheesits456/configurations)  
 `[10/02 13:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#9`](https://github.com//cheesits456/ReactionPics/issues/9 'Convert "thonk" image to a PNG') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/01 21:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Dinnerbone/mcstatus](https://github.com/Dinnerbone/mcstatus)  
-`[10/01 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/configurations](https://github.com/cheesits456/configurations)  
-`[09/30 07:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/configurations/tree/main) in [cheesits456/configurations](https://github.com/cheesits456/configurations)  
 
 </details>
 <!--END_SECTION:activity-->
