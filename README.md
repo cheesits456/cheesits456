@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/31 04:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/antoniof/local_vs_native_fixup` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-32` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/antoniof/list-view-dnd-hover-style-fixes` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
@@ -60,10 +61,10 @@
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/oholy/ci` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-28` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `antoniof/goodbye-morphing-pathbar` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/oholy/about-website` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 
 <details><summary>Show More</summary>
 
+`[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/oholy/about-website` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/ernestask/gtk4-continued` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `940-maybe-don-t-show-stable-in-about-dialog` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-30` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
@@ -254,7 +255,6 @@
 `[09/30 07:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/configurations](https://github.com/cheesits456/configurations)  
 `[09/29 21:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gkz/LiveScript](https://github.com/gkz/LiveScript)  
 `[09/29 07:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nelhage/reptyr](https://github.com/nelhage/reptyr)  
-`[09/29 07:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 
 </details>
 <!--END_SECTION:activity-->
