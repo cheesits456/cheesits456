@@ -51,6 +51,9 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/31 02:57]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#6`](https://github.com//cheesits456/discord-ssh-bot/pull/6 'added tutorial for beginners with discord bots') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
+`[10/31 02:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//cheesits456/discord-ssh-bot/issues/6 'added tutorial for beginners with discord bots') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
+`[10/31 02:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[10/30 22:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//HaileyBot/captcha-generator/issues/2 'Removal of footer text with link') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[10/30 19:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
 `[10/30 19:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//HaileyBot/captcha-generator/issues/2 'Removal of footer text with link') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -58,12 +61,12 @@
 `[10/29 20:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//HaileyBot/captcha-generator/issues/2 'Removal of footer text with link') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[10/29 19:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MrAugu/discordjs-dashboard-guide](https://github.com/MrAugu/discordjs-dashboard-guide)  
 `[10/29 19:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GoruAkiba/socketStats](https://github.com/GoruAkiba/socketStats)  
-`[10/29 17:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`7b24308`](https://github.com/udit2303/captcha-generator/commit/7b243084cff725f196124d09c7a8f7ac58b625a5#commitcomment-43704710) in [udit2303/captcha-generator](https://github.com/udit2303/captcha-generator)  
-`[10/29 12:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aaron-williamson/base16-alacritty](https://github.com/aaron-williamson/base16-alacritty)  
-`[10/24 01:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 
 <details><summary>Show More</summary>
 
+`[10/29 17:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`7b24308`](https://github.com/udit2303/captcha-generator/commit/7b243084cff725f196124d09c7a8f7ac58b625a5#commitcomment-43704710) in [udit2303/captcha-generator](https://github.com/udit2303/captcha-generator)  
+`[10/29 12:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aaron-williamson/base16-alacritty](https://github.com/aaron-williamson/base16-alacritty)  
+`[10/24 01:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/22 11:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ryanbr/fanboy-adblock](https://github.com/ryanbr/fanboy-adblock)  
 `[10/22 05:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/22 05:30]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//cheesits456/ReactionPics/issues/16 'replace "bye" image with this one') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -205,10 +208,6 @@
 `[09/22 08:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[09/22 08:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/archive.cheesits456.dev](https://github.com/cheesits456/archive.cheesits456.dev)  
 `[09/22 08:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [BitJanitor/bitjanitor.github.io](https://github.com/BitJanitor/bitjanitor.github.io)  
-`[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [itsthem/itsthem.github.io](https://github.com/itsthem/itsthem.github.io)  
-`[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BitJanitor/BitJanitor](https://github.com/BitJanitor/BitJanitor)  
-`[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BitJanitor/bitjanitor.github.io](https://github.com/BitJanitor/bitjanitor.github.io)  
-`[09/21 16:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lavishmotorcustoms/lavishmotorcustoms.github.io](https://github.com/lavishmotorcustoms/lavishmotorcustoms.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
