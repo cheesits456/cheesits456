@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/01 06:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[10/31 11:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gobolinux/Installer](https://github.com/gobolinux/Installer)  
 `[10/31 11:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gobolinux/gobolinux.org](https://github.com/gobolinux/gobolinux.org)  
 `[10/31 11:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gobolinux/Compile](https://github.com/gobolinux/Compile)  
@@ -60,10 +61,10 @@
 `[10/31 04:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
 `[10/31 04:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/antoniof/local_vs_native_fixup` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-32` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 
 <details><summary>Show More</summary>
 
+`[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-32` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/antoniof/list-view-dnd-hover-style-fixes` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `sam/tag-manager-test` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-34` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
@@ -254,7 +255,7 @@
 `[10/04 05:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/04 05:02]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`readme-images`](https://github.com/cheesits456/dot-files/tree/readme-images) in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/04 04:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
-`[10/04 01:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [cheesits456/configurations](https://github.com/cheesits456/configurations)  
+`[10/04 01:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [cheesits456/configurations](https://github.com/cheesits456/configurations)  
 
 </details>
 <!--END_SECTION:activity-->
