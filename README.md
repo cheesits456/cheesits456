@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/07 03:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [antonpup/Aurora](https://github.com/antonpup/Aurora)  
 `[11/07 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan)  
 `[11/06 23:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)  
 `[11/06 17:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [silvercircle/par](https://github.com/silvercircle/par)  
@@ -59,10 +60,10 @@
 `[11/06 01:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[11/06 01:33]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#17`](https://github.com//cheesits456/ReactionPics/issues/17 'Make GitHub action able to edit existing images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[11/06 01:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17`](https://github.com//cheesits456/ReactionPics/issues/17 'Make GitHub action able to edit existing images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[11/06 01:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 <details><summary>Show More</summary>
 
+`[11/06 01:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[11/05 17:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[11/03 13:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[11/02 21:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
@@ -263,7 +264,7 @@
 `[10/06 17:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/06 03:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[10/05 06:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SeanSobey/ChartjsNodeCanvas](https://github.com/SeanSobey/ChartjsNodeCanvas)  
-`[10/04 16:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
+`[10/04 16:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 
 </details>
 <!--END_SECTION:activity-->
