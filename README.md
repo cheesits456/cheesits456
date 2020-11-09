@@ -50,6 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xmrig/xmrig-cuda](https://github.com/xmrig/xmrig-cuda)  
+`[11/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xmrig/xmrig](https://github.com/xmrig/xmrig)  
 `[11/09 09:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
 `[11/08 21:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TownyAdvanced/Towny](https://github.com/TownyAdvanced/Towny)  
 `[11/07 07:27]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan) to [cheesits456/eruption-roccat-vulcan](https://github.com/cheesits456/eruption-roccat-vulcan)  
@@ -58,11 +60,11 @@
 `[11/07 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan)  
 `[11/06 23:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)  
 `[11/06 17:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [silvercircle/par](https://github.com/silvercircle/par)  
-`[11/06 12:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
-`[11/06 04:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
 
 <details><summary>Show More</summary>
 
+`[11/06 12:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
+`[11/06 04:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
 `[11/06 01:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#16`](https://github.com//cheesits456/ReactionPics/issues/16 'replace "bye" image with this one') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[11/06 01:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[11/06 01:33]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#17`](https://github.com//cheesits456/ReactionPics/issues/17 'Make GitHub action able to edit existing images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -266,9 +268,7 @@
 `[10/06 18:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [copsahl/Quack](https://github.com/copsahl/Quack) to [cheesits456/Quack](https://github.com/cheesits456/Quack)  
 `[10/06 17:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/06 17:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
-`[10/06 03:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
-`[10/05 06:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SeanSobey/ChartjsNodeCanvas](https://github.com/SeanSobey/ChartjsNodeCanvas)  
-`[10/04 16:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
+`[10/06 03:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 
 </details>
 <!--END_SECTION:activity-->
