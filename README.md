@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/10 01:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#27`](https://github.com//X3n0m0rph59/eruption-roccat-vulcan/issues/27 'Add support for loading configs from user-specific directories') in [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan)  
 `[11/09 13:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tevador/RandomX](https://github.com/tevador/RandomX)  
 `[11/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xmrig/xmrig-cuda](https://github.com/xmrig/xmrig-cuda)  
 `[11/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xmrig/xmrig](https://github.com/xmrig/xmrig)  
@@ -59,10 +60,10 @@
 `[11/07 03:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [simonhuwiler/roccatvulcan](https://github.com/simonhuwiler/roccatvulcan)  
 `[11/07 03:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [antonpup/Aurora](https://github.com/antonpup/Aurora)  
 `[11/07 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan)  
-`[11/06 23:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)  
 
 <details><summary>Show More</summary>
 
+`[11/06 23:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)  
 `[11/06 17:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [silvercircle/par](https://github.com/silvercircle/par)  
 `[11/06 12:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[11/06 04:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
@@ -267,7 +268,6 @@
 `[10/06 18:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//copsahl/Quack/pull/1 'Fix a typo') in [copsahl/Quack](https://github.com/copsahl/Quack)  
 `[10/06 18:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/Quack](https://github.com/cheesits456/Quack)  
 `[10/06 18:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [copsahl/Quack](https://github.com/copsahl/Quack) to [cheesits456/Quack](https://github.com/cheesits456/Quack)  
-`[10/06 17:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 
 </details>
 <!--END_SECTION:activity-->
