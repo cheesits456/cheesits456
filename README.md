@@ -50,6 +50,9 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/28 19:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//cheesits456/discord-ssh-bot/issues/9 'Can´t read property') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
+`[11/28 19:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8`](https://github.com//cheesits456/discord-ssh-bot/issues/8 'Error on running') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
+`[11/28 18:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anmoljagetia/Flatabulous](https://github.com/anmoljagetia/Flatabulous)  
 `[11/24 13:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#18`](https://github.com//cheesits456/ReactionPics/issues/18 'add a wave image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[11/19 10:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[11/14 03:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
@@ -57,12 +60,12 @@
 `[11/12 07:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#27`](https://github.com//X3n0m0rph59/eruption-roccat-vulcan/issues/27 'Add support for loading configs from user-specific directories') in [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan)  
 `[11/10 22:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[11/10 15:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3`](https://github.com//HaileyBot/captcha-generator/issues/3 'Replace bottomtext with randomly selected phrases') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[11/10 01:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
-`[11/10 01:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#27`](https://github.com//X3n0m0rph59/eruption-roccat-vulcan/issues/27 'Add support for loading configs from user-specific directories') in [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan)  
-`[11/09 13:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tevador/RandomX](https://github.com/tevador/RandomX)  
 
 <details><summary>Show More</summary>
 
+`[11/10 01:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
+`[11/10 01:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#27`](https://github.com//X3n0m0rph59/eruption-roccat-vulcan/issues/27 'Add support for loading configs from user-specific directories') in [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan)  
+`[11/09 13:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tevador/RandomX](https://github.com/tevador/RandomX)  
 `[11/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xmrig/xmrig-cuda](https://github.com/xmrig/xmrig-cuda)  
 `[11/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xmrig/xmrig](https://github.com/xmrig/xmrig)  
 `[11/09 09:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
@@ -270,7 +273,7 @@
 `[10/07 05:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[10/07 05:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
 `[10/07 04:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
-`[10/06 22:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
+`[10/06 22:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 
 </details>
 <!--END_SECTION:activity-->
