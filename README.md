@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/01 21:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 `[12/01 13:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 `[12/01 13:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/boredom/tree/main) in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 `[12/01 13:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/boredom](https://github.com/cheesits456/boredom)  
@@ -59,10 +60,10 @@
 `[11/28 19:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8`](https://github.com//cheesits456/discord-ssh-bot/issues/8 'Error on running') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[11/28 18:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anmoljagetia/Flatabulous](https://github.com/anmoljagetia/Flatabulous)  
 `[11/24 13:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#18`](https://github.com//cheesits456/ReactionPics/issues/18 'add a wave image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[11/19 10:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 
 <details><summary>Show More</summary>
 
+`[11/19 10:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[11/14 03:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[11/12 09:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)  
 `[11/12 07:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#27`](https://github.com//X3n0m0rph59/eruption-roccat-vulcan/issues/27 'Add support for loading configs from user-specific directories') in [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan)  
@@ -274,7 +275,7 @@
 `[10/07 11:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[10/07 10:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox)  
 `[10/07 09:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#10`](https://github.com//cheesits456/ReactionPics/issues/10 'Add "rip"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[10/07 07:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
+`[10/07 07:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
