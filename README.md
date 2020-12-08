@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/08 14:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 `[12/02 23:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//cheesits456/discord-ssh-bot/issues/9 'Can´t read property') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[12/02 23:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//cheesits456/discord-ssh-bot/issues/9 'Can´t read property') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[12/02 17:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator)  
@@ -59,10 +60,10 @@
 `[12/01 13:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/boredom/tree/main) in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 `[12/01 13:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 `[11/29 22:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/WebGL-Fluid-Simulation](https://github.com/cheesits456/WebGL-Fluid-Simulation)  
-`[11/29 22:33]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) to [cheesits456/WebGL-Fluid-Simulation](https://github.com/cheesits456/WebGL-Fluid-Simulation)  
 
 <details><summary>Show More</summary>
 
+`[11/29 22:33]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) to [cheesits456/WebGL-Fluid-Simulation](https://github.com/cheesits456/WebGL-Fluid-Simulation)  
 `[11/28 19:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//cheesits456/discord-ssh-bot/issues/9 'Can´t read property') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[11/28 19:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8`](https://github.com//cheesits456/discord-ssh-bot/issues/8 'Error on running') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[11/28 18:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anmoljagetia/Flatabulous](https://github.com/anmoljagetia/Flatabulous)  
@@ -276,7 +277,6 @@
 `[10/07 12:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[10/07 12:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/07 11:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/bash-wtf/tree/main) in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
-`[10/07 11:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 
 </details>
 <!--END_SECTION:activity-->
