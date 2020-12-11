@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/11 08:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vercel/pkg](https://github.com/vercel/pkg)  
 `[12/09 13:07]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//cheesits456/boredom/pull/1 'Update README.md') in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 `[12/09 13:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//cheesits456/boredom/issues/1 'Update README.md') in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 `[12/08 14:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
@@ -59,10 +60,10 @@
 `[12/02 17:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [constcharptr/lyrebird](https://github.com/constcharptr/lyrebird)  
 `[12/01 21:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 `[12/01 13:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
-`[12/01 13:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/boredom/tree/main) in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 
 <details><summary>Show More</summary>
 
+`[12/01 13:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/boredom/tree/main) in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 `[12/01 13:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 `[11/29 22:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/WebGL-Fluid-Simulation](https://github.com/cheesits456/WebGL-Fluid-Simulation)  
 `[11/29 22:33]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) to [cheesits456/WebGL-Fluid-Simulation](https://github.com/cheesits456/WebGL-Fluid-Simulation)  
@@ -277,7 +278,6 @@
 `[10/08 22:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`v1.2`](https://github.com/cheesits456/0xDiscordBot/tree/v1.2) in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[10/08 04:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[10/07 12:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
-`[10/07 12:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
