@@ -50,6 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/11 14:36]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.4`](https://github.com/HaileyBot/language-detector/releases/tag/v1.0.4) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
+`[12/11 14:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/11 14:31]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.3`](https://github.com/HaileyBot/language-detector/releases/tag/v1.0.3) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/11 14:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/11 14:29]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.2`](https://github.com/HaileyBot/language-detector/releases/tag/v1.0.2) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
@@ -58,11 +60,11 @@
 `[12/11 14:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/11 14:19]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.0`](https://github.com/HaileyBot/language-detector/releases/tag/v1.0.0) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/11 14:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
-`[12/11 14:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/HaileyBot/language-detector/tree/main) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
-`[12/11 14:08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 
 <details><summary>Show More</summary>
 
+`[12/11 14:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/HaileyBot/language-detector/tree/main) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
+`[12/11 14:08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/11 08:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vercel/pkg](https://github.com/vercel/pkg)  
 `[12/09 13:07]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//cheesits456/boredom/pull/1 'Update README.md') in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 `[12/09 13:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//cheesits456/boredom/issues/1 'Update README.md') in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
@@ -275,9 +277,6 @@
 `[10/10 01:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 `[10/09 23:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[10/09 22:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`readme-images`](https://github.com/cheesits456/bash-wtf/tree/readme-images) in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
-`[10/09 15:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/social.cheesits456.dev](https://github.com/cheesits456/social.cheesits456.dev)  
-`[10/09 15:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
-`[10/09 12:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
 
 </details>
 <!--END_SECTION:activity-->
