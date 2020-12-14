@@ -50,6 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/14 04:58]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.1.0`](https://github.com/HaileyBot/language-detector/releases/tag/v1.1.0) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
+`[12/14 04:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/13 11:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#278`](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/278 'Add "cheesits456" to profile list') in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)  
 `[12/13 11:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#445`](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/445 'Add cheesits456 to profile list') in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)  
 `[12/13 11:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/awesome-github-profile-readme](https://github.com/cheesits456/awesome-github-profile-readme)  
@@ -58,11 +60,11 @@
 `[12/13 11:05]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) to [cheesits456/awesome-github-profile-readme](https://github.com/cheesits456/awesome-github-profile-readme)  
 `[12/13 09:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/13 09:43]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//HaileyBot/language-detector/pull/2 'alright i added turkish support for fun lol whatever') in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
-`[12/13 09:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [takipsizad/language-detector](https://github.com/takipsizad/language-detector)  
-`[12/13 09:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 
 <details><summary>Show More</summary>
 
+`[12/13 09:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [takipsizad/language-detector](https://github.com/takipsizad/language-detector)  
+`[12/13 09:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/13 09:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//HaileyBot/language-detector/pull/1 'Add polish') in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/13 09:40]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Reopened PR [`#1`](https://github.com//HaileyBot/language-detector/pull/1 'Add polish') in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/13 08:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
@@ -284,9 +286,6 @@
 `[10/12 00:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)  
 `[10/11 20:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#13`](https://github.com//cheesits456/ReactionPics/issues/13 'Add "bruh" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/11 13:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Jguer/yay](https://github.com/Jguer/yay)  
-`[10/11 06:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
-`[10/11 05:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aarnt/octopi](https://github.com/aarnt/octopi)  
-`[10/11 02:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#12`](https://github.com//cheesits456/ReactionPics/issues/12 'Add (x) Doubt image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
