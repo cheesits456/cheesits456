@@ -50,19 +50,23 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/19 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [carbon-app/carbon](https://github.com/carbon-app/carbon)  
+`[12/19 10:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Androz2091/discord-temp-channels](https://github.com/Androz2091/discord-temp-channels)  
+`[12/19 10:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lorencerri/quick.db](https://github.com/lorencerri/quick.db)  
+`[12/19 10:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [npm/cli](https://github.com/npm/cli)  
 `[12/19 03:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/WebGL-Fluid-Simulation](https://github.com/cheesits456/WebGL-Fluid-Simulation)  
 `[12/19 03:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/rgb-linux](https://github.com/cheesits456/rgb-linux)  
 `[12/19 03:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
 `[12/19 03:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/rgb-linux](https://github.com/cheesits456/rgb-linux)  
 `[12/19 03:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/rgb-linux/tree/main) in [cheesits456/rgb-linux](https://github.com/cheesits456/rgb-linux)  
 `[12/19 03:15]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/rgb-linux](https://github.com/cheesits456/rgb-linux)  
+
+<details><summary>Show More</summary>
+
 `[12/14 04:58]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.1.0`](https://github.com/HaileyBot/language-detector/releases/tag/v1.1.0) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/14 04:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/13 11:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#278`](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/278 'Add "cheesits456" to profile list') in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)  
 `[12/13 11:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#445`](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/445 'Add cheesits456 to profile list') in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)  
-
-<details><summary>Show More</summary>
-
 `[12/13 11:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/awesome-github-profile-readme](https://github.com/cheesits456/awesome-github-profile-readme)  
 `[12/13 11:06]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#278`](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/278 'Add "cheesits456" to profile list') in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)  
 `[12/13 11:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#278`](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/278 'Add "cheesits456" to profile list') in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)  
@@ -283,9 +287,6 @@
 `[10/12 10:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-kde](https://github.com/daniruiz/flat-remix-kde)  
 `[10/12 10:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css)  
 `[10/12 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk)  
-`[10/12 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix)  
-`[10/12 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniruiz/flat-remix-gnome](https://github.com/daniruiz/flat-remix-gnome)  
-`[10/12 03:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#8`](https://github.com//cheesits456/ReactionPics/issues/8 'Add "awman"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
