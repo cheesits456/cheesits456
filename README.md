@@ -50,9 +50,19 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/20 18:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#9`](https://github.com//cheesits456/discord-ssh-bot/issues/9 'Can´t read property') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
+`[12/20 18:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//cheesits456/discord-ssh-bot/issues/9 'Can´t read property') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
+`[12/20 18:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#8`](https://github.com//cheesits456/discord-ssh-bot/issues/8 'Error on running') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
+`[12/20 18:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8`](https://github.com//cheesits456/discord-ssh-bot/issues/8 'Error on running') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
+`[12/20 18:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
+`[12/20 18:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
+`[12/20 18:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[12/20 16:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[12/20 12:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer)  
 `[12/19 19:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [p-e-w/argos](https://github.com/p-e-w/argos)  
+
+<details><summary>Show More</summary>
+
 `[12/19 18:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//jiqing112/Gnome-Global-AppMenu/issues/2 'Gnome 3') in [jiqing112/Gnome-Global-AppMenu](https://github.com/jiqing112/Gnome-Global-AppMenu)  
 `[12/19 16:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rtlewis88/rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes)  
 `[12/19 15:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Macintosh98/Neon-Original-gtk](https://github.com/Macintosh98/Neon-Original-gtk)  
@@ -60,9 +70,6 @@
 `[12/19 10:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)  
 `[12/19 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [carbon-app/carbon](https://github.com/carbon-app/carbon)  
 `[12/19 10:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Androz2091/discord-temp-channels](https://github.com/Androz2091/discord-temp-channels)  
-
-<details><summary>Show More</summary>
-
 `[12/19 10:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lorencerri/quick.db](https://github.com/lorencerri/quick.db)  
 `[12/19 10:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [npm/cli](https://github.com/npm/cli)  
 `[12/19 03:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/WebGL-Fluid-Simulation](https://github.com/cheesits456/WebGL-Fluid-Simulation)  
@@ -280,12 +287,6 @@
 `[10/15 20:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[10/15 09:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[10/15 02:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#17`](https://github.com//cheesits456/ReactionPics/issues/17 'Make GitHub action able to edit existing images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[10/15 02:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#16`](https://github.com//cheesits456/ReactionPics/issues/16 'replace "bye" image with this one') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[10/15 02:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#15`](https://github.com//cheesits456/ReactionPics/issues/15 'rename "dunno" to "shrug"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[10/14 00:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
-`[10/13 19:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#176`](https://github.com//fork-maintainers/iceraven-browser/issues/176 'Request for Save as PDF') in [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)  
-`[10/13 13:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#13`](https://github.com//cheesits456/ReactionPics/issues/13 'Add "bruh" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[10/13 13:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
