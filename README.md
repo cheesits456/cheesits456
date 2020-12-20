@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/20 12:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer)  
 `[12/19 19:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [p-e-w/argos](https://github.com/p-e-w/argos)  
 `[12/19 18:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//jiqing112/Gnome-Global-AppMenu/issues/2 'Gnome 3') in [jiqing112/Gnome-Global-AppMenu](https://github.com/jiqing112/Gnome-Global-AppMenu)  
 `[12/19 16:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rtlewis88/rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes)  
@@ -59,10 +60,10 @@
 `[12/19 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [carbon-app/carbon](https://github.com/carbon-app/carbon)  
 `[12/19 10:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Androz2091/discord-temp-channels](https://github.com/Androz2091/discord-temp-channels)  
 `[12/19 10:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lorencerri/quick.db](https://github.com/lorencerri/quick.db)  
-`[12/19 10:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [npm/cli](https://github.com/npm/cli)  
 
 <details><summary>Show More</summary>
 
+`[12/19 10:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [npm/cli](https://github.com/npm/cli)  
 `[12/19 03:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/WebGL-Fluid-Simulation](https://github.com/cheesits456/WebGL-Fluid-Simulation)  
 `[12/19 03:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/rgb-linux](https://github.com/cheesits456/rgb-linux)  
 `[12/19 03:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
@@ -286,7 +287,6 @@
 `[10/13 13:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/13 08:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [powercord-org/powercord](https://github.com/powercord-org/powercord)  
 `[10/13 06:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#176`](https://github.com//fork-maintainers/iceraven-browser/issues/176 'Request for Save as PDF') in [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)  
-`[10/12 11:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#81`](https://github.com//MrPotatoBobx/FetchCord/issues/81 'Unknown Host') in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)  
 
 </details>
 <!--END_SECTION:activity-->
