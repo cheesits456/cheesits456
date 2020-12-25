@@ -50,6 +50,24 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/25 19:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/electron-8.5.2` from <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+`[12/25 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+`[12/25 19:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#4` in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+`[12/25 19:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/ini-1.3.8` from <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+`[12/25 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+`[12/25 19:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#3` in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+`[12/25 19:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/lodash-4.17.20` from <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+`[12/25 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+`[12/25 19:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#2` in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+`[12/25 19:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/systeminformation-4.31.1` from <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+
+<details><summary>Show More</summary>
+
+`[12/25 19:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+`[12/25 19:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#1` in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+`[12/25 18:50]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.1.1`](https://github.com/HaileyBot/language-detector/releases/tag/v1.1.1) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
+`[12/25 18:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
+`[12/25 18:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//HaileyBot/captcha-generator/issues/4 'Resizing The Captcha\'s Image') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/25 04:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/24 20:13]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.0`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.3.0) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/24 20:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -60,9 +78,6 @@
 `[12/23 00:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)  
 `[12/23 00:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel)  
 `[12/22 21:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
-
-<details><summary>Show More</summary>
-
 `[12/22 21:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//HaileyBot/language-detector/pull/4 'hold up you hadnt add yes as english word?') in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/22 21:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#4`](https://github.com//HaileyBot/language-detector/pull/4 'hold up you hadnt add yes as english word?') in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/21 17:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -282,12 +297,6 @@
 `[10/20 15:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/19 14:15]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [GNOME/nautilus](https://github.com/GNOME/nautilus) to [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/19 11:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StarLabsLtd/StarLabsTheme](https://github.com/StarLabsLtd/StarLabsTheme)  
-`[10/19 06:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/0xDiscordBot](https://github.com/cheesits456/0xDiscordBot)  
-`[10/19 03:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/archive](https://github.com/HaileyBot/archive)  
-`[10/18 20:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
-`[10/18 18:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
-`[10/16 12:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lightcord/Lightcord](https://github.com/Lightcord/Lightcord)  
-`[10/16 12:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
 
 </details>
 <!--END_SECTION:activity-->
