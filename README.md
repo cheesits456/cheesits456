@@ -50,19 +50,25 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/27 02:54]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/actions/core-1.2.6` from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[12/27 02:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[12/27 02:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//cheesits456/github-activity-readme/pull/2 'Bump @actions/core from 1.2.4 to 1.2.6') in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[12/27 02:53]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/node-fetch-2.6.1` from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[12/27 02:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+`[12/27 02:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//cheesits456/github-activity-readme/pull/1 'Bump node-fetch from 2.6.0 to 2.6.1') in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[12/25 19:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/electron-8.5.2` from <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
 `[12/25 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
 `[12/25 19:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#4` in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
 `[12/25 19:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/ini-1.3.8` from <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
+
+<details><summary>Show More</summary>
+
 `[12/25 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
 `[12/25 19:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#3` in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
 `[12/25 19:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/lodash-4.17.20` from <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
 `[12/25 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
 `[12/25 19:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#2` in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
 `[12/25 19:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/systeminformation-4.31.1` from <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
-
-<details><summary>Show More</summary>
-
 `[12/25 19:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
 `[12/25 19:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#1` in <span title="Private Repo">`🔒cheesits456/BitJanitor`</span>  
 `[12/25 18:50]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.1.1`](https://github.com/HaileyBot/language-detector/releases/tag/v1.1.1) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
@@ -292,11 +298,6 @@
 `[10/22 05:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/22 05:30]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//cheesits456/ReactionPics/issues/16 'replace "bye" image with this one') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/21 20:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/21 20:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
-`[10/20 19:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
-`[10/20 15:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/19 14:15]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [GNOME/nautilus](https://github.com/GNOME/nautilus) to [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/19 11:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StarLabsLtd/StarLabsTheme](https://github.com/StarLabsLtd/StarLabsTheme)  
 
 </details>
 <!--END_SECTION:activity-->
