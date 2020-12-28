@@ -50,7 +50,9 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[12/28 16:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[12/28 17:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[12/28 16:54]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.2`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.4.2) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[12/28 16:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/28 16:35]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.1`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.4.1) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/28 16:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/28 16:29]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.0`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.4.0) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -58,11 +60,11 @@
 `[12/28 16:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)  
 `[12/28 16:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/27 09:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IvanMathy/Boop](https://github.com/IvanMathy/Boop)  
-`[12/27 07:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kspearrin/ff-password-exporter](https://github.com/kspearrin/ff-password-exporter)  
-`[12/27 04:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wKovacs64/hibp](https://github.com/wKovacs64/hibp)  
 
 <details><summary>Show More</summary>
 
+`[12/27 07:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kspearrin/ff-password-exporter](https://github.com/kspearrin/ff-password-exporter)  
+`[12/27 04:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wKovacs64/hibp](https://github.com/wKovacs64/hibp)  
 `[12/27 04:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)  
 `[12/27 03:19]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.2`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.3.2) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/27 03:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -295,9 +297,6 @@
 `[10/31 03:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`upstream`](https://github.com/cheesits456/nautilus/tree/upstream) in [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//cheesits456/nautilus/pull/1 'Gnome 3 38') in [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:03]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//cheesits456/nautilus/pull/1 'Gnome 3 38') in [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 02:57]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#6`](https://github.com//cheesits456/discord-ssh-bot/pull/6 'added tutorial for beginners with discord bots') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
-`[10/31 02:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//cheesits456/discord-ssh-bot/issues/6 'added tutorial for beginners with discord bots') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 
 </details>
 <!--END_SECTION:activity-->
