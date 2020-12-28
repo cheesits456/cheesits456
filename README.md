@@ -50,9 +50,19 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/28 16:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[12/28 16:35]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.1`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.4.1) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[12/28 16:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[12/28 16:29]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.0`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.4.0) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[12/28 16:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[12/28 16:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)  
+`[12/28 16:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/27 09:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IvanMathy/Boop](https://github.com/IvanMathy/Boop)  
 `[12/27 07:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kspearrin/ff-password-exporter](https://github.com/kspearrin/ff-password-exporter)  
 `[12/27 04:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wKovacs64/hibp](https://github.com/wKovacs64/hibp)  
+
+<details><summary>Show More</summary>
+
 `[12/27 04:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)  
 `[12/27 03:19]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.2`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.3.2) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/27 03:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -60,9 +70,6 @@
 `[12/27 03:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/27 02:54]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/actions/core-1.2.6` from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[12/27 02:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-
-<details><summary>Show More</summary>
-
 `[12/27 02:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//cheesits456/github-activity-readme/pull/2 'Bump @actions/core from 1.2.4 to 1.2.6') in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[12/27 02:53]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/node-fetch-2.6.1` from [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[12/27 02:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
@@ -291,13 +298,6 @@
 `[10/31 03:03]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//cheesits456/nautilus/pull/1 'Gnome 3 38') in [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 02:57]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#6`](https://github.com//cheesits456/discord-ssh-bot/pull/6 'added tutorial for beginners with discord bots') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[10/31 02:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//cheesits456/discord-ssh-bot/issues/6 'added tutorial for beginners with discord bots') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
-`[10/31 02:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
-`[10/30 22:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//HaileyBot/captcha-generator/issues/2 'Removal of footer text with link') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[10/30 19:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/BattleSimulator](https://github.com/cheesits456/BattleSimulator)  
-`[10/30 19:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//HaileyBot/captcha-generator/issues/2 'Removal of footer text with link') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[10/30 19:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[10/29 20:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//HaileyBot/captcha-generator/issues/2 'Removal of footer text with link') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[10/29 19:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MrAugu/discordjs-dashboard-guide](https://github.com/MrAugu/discordjs-dashboard-guide)  
 
 </details>
 <!--END_SECTION:activity-->
