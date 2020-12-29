@@ -50,7 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[12/29 10:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[12/29 11:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/29 10:13]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.5.0`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.5.0) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/29 10:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/29 09:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -272,13 +272,6 @@
 `[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-2-30` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-2-28` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-2-16` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-2-14` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-2-12` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-24` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `alex-fazakas-operations-undo-redo` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `new-properties-extension` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `actions-in-header-bar` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `action-info-bar-non-flat` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 
 </details>
 <!--END_SECTION:activity-->
