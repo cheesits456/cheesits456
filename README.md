@@ -1,6 +1,6 @@
 [![Banner][banner-img]][banner-link]
 
-## About Me
+<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h2>
 
 <p align="justify">I am a NodeJS developer with 11 years of coding experience.</p>
 
