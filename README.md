@@ -50,6 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/30 23:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
+`[12/30 23:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)  
 `[12/30 23:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Dinnerbone/scrapbucket](https://github.com/Dinnerbone/scrapbucket)  
 `[12/30 13:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discord/focus-rings](https://github.com/discord/focus-rings)  
 `[12/30 11:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [starship/starship](https://github.com/starship/starship)  
@@ -58,11 +60,11 @@
 `[12/30 03:13]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.5.1`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.5.1) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/30 03:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/30 02:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/archive.cheesits456.dev](https://github.com/cheesits456/archive.cheesits456.dev)  
-`[12/29 13:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[12/29 10:13]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.5.0`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.5.0) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 <details><summary>Show More</summary>
 
+`[12/29 13:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[12/29 10:13]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.5.0`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.5.0) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/29 10:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/29 09:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[12/29 05:45]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.3`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.4.3) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -258,10 +260,6 @@
 `[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/oholy/about-website` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/ernestask/gtk4-continued` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `940-maybe-don-t-show-stable-in-about-dialog` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-30` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-26` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `adding-hello-world` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-about-dialog` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 
 </details>
 <!--END_SECTION:activity-->
