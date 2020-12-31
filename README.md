@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/31 21:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒SpheeresX/homophobe-ban-hammer`</span>  
 `[12/31 20:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred <span title="Private Repo">`🔒SpheeresX/homophobe-ban-hammer`</span>  
 `[12/31 19:44]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/types/node-14.14.17` from [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/31 19:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -59,10 +60,10 @@
 `[12/30 23:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Dinnerbone/scrapbucket](https://github.com/Dinnerbone/scrapbucket)  
 `[12/30 13:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discord/focus-rings](https://github.com/discord/focus-rings)  
 `[12/30 11:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [starship/starship](https://github.com/starship/starship)  
-`[12/30 05:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 <details><summary>Show More</summary>
 
+`[12/30 05:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/30 05:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/.github](https://github.com/HaileyBot/.github)  
 `[12/30 03:13]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.5.1`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.5.1) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[12/30 03:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -257,8 +258,6 @@
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/antoniof/list-view-dnd-hover-style-fixes` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `sam/tag-manager-test` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 `[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gnome-3-34` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/antoniof/deep-size-hidden-files` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
-`[10/31 03:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `wip/oholy/ci` from [cheesits456/nautilus](https://github.com/cheesits456/nautilus)  
 
 </details>
 <!--END_SECTION:activity-->
