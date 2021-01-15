@@ -50,6 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[01/15 07:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[01/15 07:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//HaileyBot/captcha-generator/pull/8 'Bump @types/node from 14.14.20 to 14.14.21') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/06 11:38]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.6.1`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.6.1) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/06 11:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/06 11:35]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.6.0`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.6.0) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -58,11 +60,11 @@
 `[01/05 08:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/types/node-14.14.20` from [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/05 08:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/05 08:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//HaileyBot/captcha-generator/pull/7 'Bump @types/node from 14.14.19 to 14.14.20') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[01/04 15:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#13`](https://github.com//cheesits456/discord-ssh-bot/issues/13 'CD with bot') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
-`[01/04 09:36]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/types/node-14.14.19` from [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 <details><summary>Show More</summary>
 
+`[01/04 15:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#13`](https://github.com//cheesits456/discord-ssh-bot/issues/13 'CD with bot') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
+`[01/04 09:36]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/types/node-14.14.19` from [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/04 09:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/04 09:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//HaileyBot/captcha-generator/pull/6 'Bump @types/node from 14.14.17 to 14.14.19') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/01 03:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -256,7 +258,7 @@
 `[11/05 17:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[11/03 13:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//cheesits456/discord-ssh-bot/issues/7 'Throws error on running ') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[11/02 21:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
-`[11/02 21:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [BitJanitor/bitjanitor.github.io](https://github.com/BitJanitor/bitjanitor.github.io)  
+`[11/02 21:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BitJanitor/bitjanitor.github.io](https://github.com/BitJanitor/bitjanitor.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
