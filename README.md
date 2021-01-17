@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[01/17 17:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 `[01/16 02:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`0ddf931`](https://github.com/Fat-Yeetus/PotatoStocks/commit/0ddf931e8ae75f932b362f62c6d45b70ebfb4f30#commitcomment-46013035) in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 `[01/16 02:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Fat-Yeetus/PotatoStocks/pull/1 'Create index.js') in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 `[01/16 02:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
@@ -59,10 +60,10 @@
 `[01/16 02:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 `[01/15 07:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/15 07:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//HaileyBot/captcha-generator/pull/8 'Bump @types/node from 14.14.20 to 14.14.21') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[01/06 11:38]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.6.1`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.6.1) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 <details><summary>Show More</summary>
 
+`[01/06 11:38]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.6.1`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.6.1) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/06 11:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/06 11:35]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.6.0`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.6.0) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/06 11:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -260,8 +261,6 @@
 `[11/06 01:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#16`](https://github.com//cheesits456/ReactionPics/issues/16 'replace "bye" image with this one') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[11/06 01:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[11/06 01:33]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#17`](https://github.com//cheesits456/ReactionPics/issues/17 'Make GitHub action able to edit existing images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[11/06 01:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17`](https://github.com//cheesits456/ReactionPics/issues/17 'Make GitHub action able to edit existing images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[11/06 01:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
