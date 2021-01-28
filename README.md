@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[01/28 15:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lsdtolerancecalculator/lsdtolerancecalculator.github.io](https://github.com/lsdtolerancecalculator/lsdtolerancecalculator.github.io)  
 `[01/28 12:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
 `[01/28 02:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[01/27 01:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#20`](https://github.com//cheesits456/ReactionPics/issues/20 'add "shh" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -59,10 +60,10 @@
 `[01/20 06:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/20 06:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//HaileyBot/captcha-generator/pull/9 'Bump @types/node from 14.14.21 to 14.14.22') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/17 17:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
-`[01/16 02:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`0ddf931`](https://github.com/Fat-Yeetus/PotatoStocks/commit/0ddf931e8ae75f932b362f62c6d45b70ebfb4f30#commitcomment-46013035) in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 
 <details><summary>Show More</summary>
 
+`[01/16 02:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`0ddf931`](https://github.com/Fat-Yeetus/PotatoStocks/commit/0ddf931e8ae75f932b362f62c6d45b70ebfb4f30#commitcomment-46013035) in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 `[01/16 02:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Fat-Yeetus/PotatoStocks/pull/1 'Create index.js') in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 `[01/16 02:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 `[01/16 02:05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Fat-Yeetus/PotatoStocks/pull/1 'Create index.js') in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
@@ -261,7 +262,6 @@
 `[11/07 07:27]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan) to [cheesits456/eruption-roccat-vulcan](https://github.com/cheesits456/eruption-roccat-vulcan)  
 `[11/07 03:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [simonhuwiler/roccatvulcan](https://github.com/simonhuwiler/roccatvulcan)  
 `[11/07 03:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [antonpup/Aurora](https://github.com/antonpup/Aurora)  
-`[11/07 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan)  
 
 </details>
 <!--END_SECTION:activity-->
