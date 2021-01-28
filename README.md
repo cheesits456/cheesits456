@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[01/28 02:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[01/27 01:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#20`](https://github.com//cheesits456/ReactionPics/issues/20 'add "shh" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[01/24 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
 `[01/21 15:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SpheeresX/battery-health](https://github.com/SpheeresX/battery-health)  
@@ -59,10 +60,10 @@
 `[01/17 17:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 `[01/16 02:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`0ddf931`](https://github.com/Fat-Yeetus/PotatoStocks/commit/0ddf931e8ae75f932b362f62c6d45b70ebfb4f30#commitcomment-46013035) in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 `[01/16 02:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Fat-Yeetus/PotatoStocks/pull/1 'Create index.js') in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
-`[01/16 02:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 
 <details><summary>Show More</summary>
 
+`[01/16 02:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 `[01/16 02:05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Fat-Yeetus/PotatoStocks/pull/1 'Create index.js') in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 `[01/16 02:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/PotatoStocks](https://github.com/cheesits456/PotatoStocks)  
 `[01/16 02:05]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks) to [cheesits456/PotatoStocks](https://github.com/cheesits456/PotatoStocks)  
@@ -261,7 +262,6 @@
 `[11/07 03:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [antonpup/Aurora](https://github.com/antonpup/Aurora)  
 `[11/07 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan)  
 `[11/06 23:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)  
-`[11/06 17:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [silvercircle/par](https://github.com/silvercircle/par)  
 
 </details>
 <!--END_SECTION:activity-->
