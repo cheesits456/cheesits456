@@ -258,10 +258,6 @@
 `[11/10 15:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3`](https://github.com//HaileyBot/captcha-generator/issues/3 'Replace bottomtext with randomly selected phrases') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[11/10 01:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
 `[11/10 01:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#27`](https://github.com//X3n0m0rph59/eruption-roccat-vulcan/issues/27 'Add support for loading configs from user-specific directories') in [X3n0m0rph59/eruption-roccat-vulcan](https://github.com/X3n0m0rph59/eruption-roccat-vulcan)  
-`[11/09 13:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tevador/RandomX](https://github.com/tevador/RandomX)  
-`[11/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xmrig/xmrig-cuda](https://github.com/xmrig/xmrig-cuda)  
-`[11/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xmrig/xmrig](https://github.com/xmrig/xmrig)  
-`[11/09 09:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
