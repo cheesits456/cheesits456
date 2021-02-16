@@ -50,6 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[02/16 06:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[02/16 06:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#16`](https://github.com//HaileyBot/captcha-generator/pull/16 'Bump @types/node from 14.14.26 to 14.14.28') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[02/14 16:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#22`](https://github.com//cheesits456/ReactionPics/issues/22 'add slowclap image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/14 13:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JmNkS/MEMZ](https://github.com/JmNkS/MEMZ)  
 `[02/14 13:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase)  
@@ -58,11 +60,11 @@
 `[02/12 10:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/12 10:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#20`](https://github.com//cheesits456/ReactionPics/issues/20 'add "shh" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/12 10:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20`](https://github.com//cheesits456/ReactionPics/issues/20 'add "shh" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[02/12 10:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[02/12 10:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#21`](https://github.com//cheesits456/ReactionPics/issues/21 'Add "woah" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 <details><summary>Show More</summary>
 
+`[02/12 10:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
+`[02/12 10:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#21`](https://github.com//cheesits456/ReactionPics/issues/21 'Add "woah" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/12 10:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#21`](https://github.com//cheesits456/ReactionPics/issues/21 'Add "woah" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/12 10:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/12 09:41]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#21`](https://github.com//cheesits456/ReactionPics/issues/21 'Add "woah" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -262,8 +264,7 @@
 `[12/02 17:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator)  
 `[12/02 17:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [constcharptr/lyrebird](https://github.com/constcharptr/lyrebird)  
 `[12/01 21:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/boredom](https://github.com/cheesits456/boredom)  
-`[12/01 13:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
-`[12/01 13:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/boredom/tree/main) in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
+`[12/01 13:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 
 </details>
 <!--END_SECTION:activity-->
