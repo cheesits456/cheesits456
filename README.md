@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[02/21 18:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/21 17:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#29`](https://github.com//cheesits456/ReactionPics/issues/29 'add "yikes" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/21 17:35]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#28`](https://github.com//cheesits456/ReactionPics/issues/28 'add "yeah" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/21 17:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#27`](https://github.com//cheesits456/ReactionPics/issues/27 'add "nice" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -59,10 +60,10 @@
 `[02/21 08:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/19 10:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[02/19 10:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#18`](https://github.com//HaileyBot/captcha-generator/pull/18 'Bump @types/node from 14.14.28 to 14.14.30') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[02/19 08:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#25`](https://github.com//cheesits456/ReactionPics/issues/25 'Add "fuck" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 <details><summary>Show More</summary>
 
+`[02/19 08:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#25`](https://github.com//cheesits456/ReactionPics/issues/25 'Add "fuck" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/19 07:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#24`](https://github.com//cheesits456/ReactionPics/issues/24 'Add "victory" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/19 01:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[02/19 01:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#17`](https://github.com//HaileyBot/captcha-generator/pull/17 'Bump @types/mocha from 8.2.0 to 8.2.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -258,9 +259,6 @@
 `[12/11 16:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrdoob/three.js](https://github.com/mrdoob/three.js)  
 `[12/11 16:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
 `[12/11 16:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mattboldt/typed.js](https://github.com/mattboldt/typed.js)  
-`[12/11 14:36]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.4`](https://github.com/HaileyBot/language-detector/releases/tag/v1.0.4) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
-`[12/11 14:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
-`[12/11 14:31]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.3`](https://github.com/HaileyBot/language-detector/releases/tag/v1.0.3) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 
 </details>
 <!--END_SECTION:activity-->
