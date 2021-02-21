@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[02/21 23:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
 `[02/21 19:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/21 18:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#29`](https://github.com//cheesits456/ReactionPics/issues/29 'add "yikes" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/21 18:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#28`](https://github.com//cheesits456/ReactionPics/issues/28 'add "yeah" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -59,10 +60,10 @@
 `[02/21 18:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#23`](https://github.com//cheesits456/ReactionPics/issues/23 'Add "same" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/21 18:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#22`](https://github.com//cheesits456/ReactionPics/issues/22 'add slowclap image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/21 18:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#18`](https://github.com//cheesits456/ReactionPics/issues/18 'add a wave image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[02/21 18:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#14`](https://github.com//cheesits456/ReactionPics/issues/14 'Add "no u" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 <details><summary>Show More</summary>
 
+`[02/21 18:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#14`](https://github.com//cheesits456/ReactionPics/issues/14 'Add "no u" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/21 18:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#10`](https://github.com//cheesits456/ReactionPics/issues/10 'Add "rip"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/21 18:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5`](https://github.com//cheesits456/ReactionPics/issues/5 'Add "yum"/"yummy"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/21 18:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -253,7 +254,6 @@
 `[12/19 03:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/rgb-linux/tree/main) in [cheesits456/rgb-linux](https://github.com/cheesits456/rgb-linux)  
 `[12/19 03:15]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/rgb-linux](https://github.com/cheesits456/rgb-linux)  
 `[12/14 04:58]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.1.0`](https://github.com/HaileyBot/language-detector/releases/tag/v1.1.0) in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
-`[12/14 04:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 
 </details>
 <!--END_SECTION:activity-->
