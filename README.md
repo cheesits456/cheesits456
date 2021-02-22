@@ -50,7 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[02/22 18:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
+`[02/22 19:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
 `[02/22 18:40]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/HaileyBot/vote.haileybot.com/tree/main) in [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
 `[02/22 18:40]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
 `[02/22 11:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
@@ -249,12 +249,6 @@
 `[12/19 18:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//jiqing112/Gnome-Global-AppMenu/issues/2 'Gnome 3') in [jiqing112/Gnome-Global-AppMenu](https://github.com/jiqing112/Gnome-Global-AppMenu)  
 `[12/19 16:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rtlewis88/rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes)  
 `[12/19 15:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Macintosh98/Neon-Original-gtk](https://github.com/Macintosh98/Neon-Original-gtk)  
-`[12/19 14:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/rgb-linux](https://github.com/cheesits456/rgb-linux)  
-`[12/19 10:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)  
-`[12/19 10:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [carbon-app/carbon](https://github.com/carbon-app/carbon)  
-`[12/19 10:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Androz2091/discord-temp-channels](https://github.com/Androz2091/discord-temp-channels)  
-`[12/19 10:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lorencerri/quick.db](https://github.com/lorencerri/quick.db)  
-`[12/19 10:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [npm/cli](https://github.com/npm/cli)  
 
 </details>
 <!--END_SECTION:activity-->
