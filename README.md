@@ -50,6 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[02/24 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[02/24 12:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#20`](https://github.com//HaileyBot/captcha-generator/pull/20 'Bump typescript from 4.1.5 to 4.2.2') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[02/23 04:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
 `[02/22 19:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
 `[02/22 18:40]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/HaileyBot/vote.haileybot.com/tree/main) in [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
@@ -58,11 +60,11 @@
 `[02/22 10:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[02/22 10:59]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#19`](https://github.com//HaileyBot/captcha-generator/pull/19 'Bump @types/node from 14.14.30 to 14.14.31') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[02/22 00:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
-`[02/21 23:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SpheeresX/puthon](https://github.com/SpheeresX/puthon)  
-`[02/21 23:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
 
 <details><summary>Show More</summary>
 
+`[02/21 23:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SpheeresX/puthon](https://github.com/SpheeresX/puthon)  
+`[02/21 23:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
 `[02/21 19:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/21 18:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#29`](https://github.com//cheesits456/ReactionPics/issues/29 'add "yikes" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/21 18:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#28`](https://github.com//cheesits456/ReactionPics/issues/28 'add "yeah" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -247,8 +249,6 @@
 `[12/20 16:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[12/20 12:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer)  
 `[12/19 19:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [p-e-w/argos](https://github.com/p-e-w/argos)  
-`[12/19 18:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//jiqing112/Gnome-Global-AppMenu/issues/2 'Gnome 3') in [jiqing112/Gnome-Global-AppMenu](https://github.com/jiqing112/Gnome-Global-AppMenu)  
-`[12/19 16:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rtlewis88/rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes)  
 
 </details>
 <!--END_SECTION:activity-->
