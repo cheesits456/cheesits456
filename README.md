@@ -50,7 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[03/04 00:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒MHSSupport/vortex-music`</span>  
+`[03/04 19:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒MHSSupport/vortex-music`</span>  
 `[03/03 18:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred <span title="Private Repo">`🔒MHSSupport/vortex-music`</span>  
 `[03/02 20:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#30`](https://github.com//cheesits456/ReactionPics/issues/30 'add "right" and "wrong" images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[03/02 19:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -245,7 +245,6 @@
 `[12/22 21:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//HaileyBot/language-detector/pull/4 'hold up you hadnt add yes as english word?') in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/22 21:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#4`](https://github.com//HaileyBot/language-detector/pull/4 'hold up you hadnt add yes as english word?') in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
 `[12/21 17:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[12/21 15:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)  
 
 </details>
 <!--END_SECTION:activity-->
