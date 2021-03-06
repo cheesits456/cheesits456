@@ -50,6 +50,9 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/06 18:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒MHSSupport/vortex-music`</span>  
+`[03/06 18:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[03/06 18:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#22`](https://github.com//HaileyBot/captcha-generator/pull/22 'Bump typescript from 4.2.2 to 4.2.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[03/04 19:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒MHSSupport/vortex-music`</span>  
 `[03/03 18:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred <span title="Private Repo">`🔒MHSSupport/vortex-music`</span>  
 `[03/02 20:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#30`](https://github.com//cheesits456/ReactionPics/issues/30 'add "right" and "wrong" images') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -57,12 +60,12 @@
 `[03/02 16:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[03/02 16:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#21`](https://github.com//HaileyBot/captcha-generator/pull/21 'Bump canvas from 2.6.1 to 2.7.0') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[02/26 11:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
-`[02/24 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[02/24 12:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#20`](https://github.com//HaileyBot/captcha-generator/pull/20 'Bump typescript from 4.1.5 to 4.2.2') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[02/23 04:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
 
 <details><summary>Show More</summary>
 
+`[02/24 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[02/24 12:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#20`](https://github.com//HaileyBot/captcha-generator/pull/20 'Bump typescript from 4.1.5 to 4.2.2') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[02/23 04:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
 `[02/22 19:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
 `[02/22 18:40]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/HaileyBot/vote.haileybot.com/tree/main) in [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
 `[02/22 18:40]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
@@ -242,9 +245,6 @@
 `[12/23 00:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)  
 `[12/23 00:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel)  
 `[12/22 21:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
-`[12/22 21:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//HaileyBot/language-detector/pull/4 'hold up you hadnt add yes as english word?') in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
-`[12/22 21:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#4`](https://github.com//HaileyBot/language-detector/pull/4 'hold up you hadnt add yes as english word?') in [HaileyBot/language-detector](https://github.com/HaileyBot/language-detector)  
-`[12/21 17:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
