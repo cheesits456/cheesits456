@@ -188,11 +188,6 @@
 `[01/04 09:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/04 09:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//HaileyBot/captcha-generator/pull/6 'Bump @types/node from 14.14.17 to 14.14.19') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/01 03:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[01/01 02:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒SpheeresX/homophobe-ban-hammer`</span>  
-`[12/31 20:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred <span title="Private Repo">`🔒SpheeresX/homophobe-ban-hammer`</span>  
-`[12/31 19:44]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/types/node-14.14.17` from [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[12/31 19:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[12/31 19:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//HaileyBot/captcha-generator/pull/5 'Bump @types/node from 14.14.16 to 14.14.17') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
