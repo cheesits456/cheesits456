@@ -186,9 +186,6 @@
 `[01/06 11:35]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.6.0`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.6.0) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/06 11:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/06 07:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)  
-`[01/05 08:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/types/node-14.14.20` from [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[01/05 08:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[01/05 08:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//HaileyBot/captcha-generator/pull/7 'Bump @types/node from 14.14.19 to 14.14.20') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
