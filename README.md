@@ -181,11 +181,6 @@
 `[01/16 02:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 `[01/15 07:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/15 07:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//HaileyBot/captcha-generator/pull/8 'Bump @types/node from 14.14.20 to 14.14.21') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[01/06 11:38]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.6.1`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.6.1) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[01/06 11:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[01/06 11:35]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.6.0`](https://github.com/HaileyBot/captcha-generator/releases/tag/v1.6.0) in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[01/06 11:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[01/06 07:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)  
 
 </details>
 <!--END_SECTION:activity-->
