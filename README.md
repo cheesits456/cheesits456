@@ -184,7 +184,6 @@
 `[01/20 08:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#19`](https://github.com//cheesits456/ReactionPics/issues/19 'add a "thank" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[01/20 06:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[01/20 06:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//HaileyBot/captcha-generator/pull/9 'Bump @types/node from 14.14.21 to 14.14.22') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[01/17 17:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Fat-Yeetus/PotatoStocks](https://github.com/Fat-Yeetus/PotatoStocks)  
 
 </details>
 <!--END_SECTION:activity-->
