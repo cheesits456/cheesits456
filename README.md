@@ -180,7 +180,6 @@
 `[01/28 02:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[01/27 01:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#20`](https://github.com//cheesits456/ReactionPics/issues/20 'add "shh" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[01/24 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/dot-files](https://github.com/cheesits456/dot-files)  
-`[01/21 15:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SpheeresX/battery-health](https://github.com/SpheeresX/battery-health)  
 
 </details>
 <!--END_SECTION:activity-->
