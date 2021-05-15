@@ -170,9 +170,6 @@
 `[02/17 18:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/shop](https://github.com/HaileyBot/shop)  
 `[02/16 06:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[02/16 06:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#16`](https://github.com//HaileyBot/captcha-generator/pull/16 'Bump @types/node from 14.14.26 to 14.14.28') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[02/14 16:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#22`](https://github.com//cheesits456/ReactionPics/issues/22 'add slowclap image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[02/14 13:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JmNkS/MEMZ](https://github.com/JmNkS/MEMZ)  
-`[02/14 13:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase)  
 
 </details>
 <!--END_SECTION:activity-->
