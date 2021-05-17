@@ -168,8 +168,6 @@
 `[02/19 01:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#17`](https://github.com//HaileyBot/captcha-generator/pull/17 'Bump @types/mocha from 8.2.0 to 8.2.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[02/17 21:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#23`](https://github.com//cheesits456/ReactionPics/issues/23 'Add "same" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[02/17 18:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/shop](https://github.com/HaileyBot/shop)  
-`[02/16 06:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[02/16 06:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#16`](https://github.com//HaileyBot/captcha-generator/pull/16 'Bump @types/node from 14.14.26 to 14.14.28') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
