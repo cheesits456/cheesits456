@@ -144,8 +144,7 @@
 `[03/06 23:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒MHSSupport/vortex-music`</span>  
 `[03/06 18:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[03/06 18:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#22`](https://github.com//HaileyBot/captcha-generator/pull/22 'Bump typescript from 4.2.2 to 4.2.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[03/04 19:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒MHSSupport/vortex-music`</span>  
-`[03/03 18:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred <span title="Private Repo">`🔒MHSSupport/vortex-music`</span>  
+`[03/04 19:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒MHSSupport/vortex-music`</span>  
 
 </details>
 <!--END_SECTION:activity-->
