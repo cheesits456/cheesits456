@@ -143,9 +143,6 @@
 `[03/08 08:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#24`](https://github.com//HaileyBot/captcha-generator/pull/24 'Bump @types/node from 14.14.31 to 14.14.32') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[03/08 08:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[03/08 08:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#23`](https://github.com//HaileyBot/captcha-generator/pull/23 'Bump mocha from 8.3.0 to 8.3.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[03/06 23:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒MHSSupport/vortex-music`</span>  
-`[03/06 18:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[03/06 18:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#22`](https://github.com//HaileyBot/captcha-generator/pull/22 'Bump typescript from 4.2.2 to 4.2.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
