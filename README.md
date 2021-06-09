@@ -143,10 +143,6 @@
 `[03/11 22:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
 `[03/10 06:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[03/10 06:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#25`](https://github.com//HaileyBot/captcha-generator/pull/25 'Bump @types/node from 14.14.32 to 14.14.33') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[03/08 08:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[03/08 08:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#24`](https://github.com//HaileyBot/captcha-generator/pull/24 'Bump @types/node from 14.14.31 to 14.14.32') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[03/08 08:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[03/08 08:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#23`](https://github.com//HaileyBot/captcha-generator/pull/23 'Bump mocha from 8.3.0 to 8.3.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
