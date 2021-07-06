@@ -132,8 +132,6 @@
 `[04/10 21:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SpheeresX/rms-letters](https://github.com/SpheeresX/rms-letters)  
 `[04/08 10:46]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#32`](https://github.com//HaileyBot/captcha-generator/pull/32 'Bump typescript from 4.2.3 to 4.2.4') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[04/08 10:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[04/05 07:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
-`[04/05 07:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#16`](https://github.com//cheesits456/discord-ssh-bot/pull/16 'Bump discord.js from 12.5.2 to 12.5.3') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 
 </details>
 <!--END_SECTION:activity-->
