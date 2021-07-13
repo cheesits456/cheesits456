@@ -139,9 +139,6 @@
 `[04/13 16:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [HaileyBot/shop](https://github.com/HaileyBot/shop)  
 `[04/13 16:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//HaileyBot/shop/pull/1 'optimizations') in [HaileyBot/shop](https://github.com/HaileyBot/shop)  
 `[04/13 16:34]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//HaileyBot/shop/pull/1 'optimizations') in [HaileyBot/shop](https://github.com/HaileyBot/shop)  
-`[04/12 10:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
-`[04/12 10:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//HaileyBot/haileybot.github.io/pull/3 'optimizations') in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
-`[04/12 10:34]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#3`](https://github.com//HaileyBot/haileybot.github.io/pull/3 'optimizations') in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
