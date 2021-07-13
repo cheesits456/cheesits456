@@ -50,7 +50,9 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[07/13 14:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
+`[07/13 14:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
+`[07/13 14:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/github-readme-stats](https://github.com/cheesits456/github-readme-stats)  
+`[07/13 14:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
 `[07/13 12:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
 `[07/13 12:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
 `[07/13 12:27]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/cheesits456/Nautilus/tree/master) in [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
@@ -58,11 +60,11 @@
 `[07/13 11:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
 `[07/13 11:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#38`](https://github.com//vinceliuice/Layan-gtk-theme/issues/38 'Nautilus buttons change color') in [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
 `[07/13 11:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#38`](https://github.com//vinceliuice/Layan-gtk-theme/issues/38 'Nautilus buttons change color') in [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
-`[07/13 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
-`[07/13 00:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 <details><summary>Show More</summary>
 
+`[07/13 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
+`[07/13 00:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[07/13 00:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#68`](https://github.com//HaileyBot/captcha-generator/pull/68 'Bump ts-node from 10.0.0 to 10.1.0') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[07/13 00:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[07/13 00:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#67`](https://github.com//HaileyBot/captcha-generator/pull/67 'Bump @types/node from 16.3.0 to 16.3.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
