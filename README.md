@@ -146,8 +146,6 @@
 `[04/26 06:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Goldorion/Spigot-Generator-MCreator](https://github.com/Goldorion/Spigot-Generator-MCreator)  
 `[04/25 20:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#35`](https://github.com//HaileyBot/captcha-generator/issues/35 'Change "An NPM package" to "A NPM package" in the description') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[04/24 18:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SpheeresX/captapi](https://github.com/SpheeresX/captapi)  
-`[04/16 19:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[04/16 19:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#34`](https://github.com//HaileyBot/captcha-generator/pull/34 'Bump @types/node from 14.14.39 to 14.14.41') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
