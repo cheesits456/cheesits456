@@ -50,6 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[07/19 18:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
+`[07/19 18:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#70`](https://github.com//HaileyBot/captcha-generator/pull/70 'Bump @types/node from 16.3.2 to 16.3.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[07/15 17:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[07/15 17:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#69`](https://github.com//HaileyBot/captcha-generator/pull/69 'Bump @types/node from 16.3.1 to 16.3.2') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[07/13 21:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
@@ -58,11 +60,11 @@
 `[07/13 14:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
 `[07/13 12:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
 `[07/13 12:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
-`[07/13 12:27]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/cheesits456/Nautilus/tree/master) in [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
-`[07/13 12:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
 
 <details><summary>Show More</summary>
 
+`[07/13 12:27]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/cheesits456/Nautilus/tree/master) in [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
+`[07/13 12:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/Nautilus](https://github.com/cheesits456/Nautilus)  
 `[07/13 11:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
 `[07/13 11:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#38`](https://github.com//vinceliuice/Layan-gtk-theme/issues/38 'Nautilus buttons change color') in [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
 `[07/13 11:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#38`](https://github.com//vinceliuice/Layan-gtk-theme/issues/38 'Nautilus buttons change color') in [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
