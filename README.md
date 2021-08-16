@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/16 22:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20`](https://github.com//cheesits456/discord-ssh-bot/issues/20 'Bump discord.js from 12.5.3 to 13.1.0') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[08/14 20:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/14 20:46]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#86`](https://github.com//HaileyBot/captcha-generator/pull/86 'Bump @types/node from 16.6.0 to 16.6.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/12 21:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -60,10 +61,10 @@
 `[08/11 22:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#84`](https://github.com//HaileyBot/captcha-generator/pull/84 'Bump @types/node from 16.4.13 to 16.4.14') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/11 00:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[08/11 00:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#36`](https://github.com//cheesits456/ReactionPics/issues/36 'add "not much" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[08/09 22:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 <details><summary>Show More</summary>
 
+`[08/09 22:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/09 22:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#83`](https://github.com//HaileyBot/captcha-generator/pull/83 'Bump ts-node from 10.1.0 to 10.2.0') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/09 21:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#82`](https://github.com//HaileyBot/captcha-generator/issues/82 'error in nodejs version 16.6.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/07 23:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#82`](https://github.com//HaileyBot/captcha-generator/issues/82 'error in nodejs version 16.6.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
