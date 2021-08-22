@@ -166,8 +166,6 @@
 `[05/24 07:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#46`](https://github.com//HaileyBot/captcha-generator/pull/46 'Bump @types/node from 15.3.1 to 15.6.0') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[05/24 07:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[05/24 07:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#45`](https://github.com//HaileyBot/captcha-generator/pull/45 'Bump ts-node from 9.1.1 to 10.0.0') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[05/21 15:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[05/21 15:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#44`](https://github.com//HaileyBot/captcha-generator/pull/44 'Bump @types/node from 15.3.0 to 15.3.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
