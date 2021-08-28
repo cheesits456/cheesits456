@@ -162,8 +162,6 @@
 `[05/31 01:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//cheesits456/Number-Guesser/pull/2 'Bump ws from 7.3.1 to 7.4.6') in [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[05/31 01:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
 `[05/31 01:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#18`](https://github.com//cheesits456/discord-ssh-bot/pull/18 'Bump ws from 7.4.4 to 7.4.6') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)  
-`[05/27 12:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[05/27 12:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#48`](https://github.com//HaileyBot/captcha-generator/pull/48 'Bump typescript from 4.2.4 to 4.3.2') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
