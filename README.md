@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/05 09:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SebLague/Slime-Simulation](https://github.com/SebLague/Slime-Simulation)  
 `[09/02 05:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//daveter9/challengeBot/pull/2 'Fix markdown formatting issue') in [daveter9/challengeBot](https://github.com/daveter9/challengeBot)  
 `[09/02 05:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/challengeBot](https://github.com/cheesits456/challengeBot)  
 `[09/02 05:07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [daveter9/challengeBot](https://github.com/daveter9/challengeBot) to [cheesits456/challengeBot](https://github.com/cheesits456/challengeBot)  
@@ -60,10 +61,10 @@
 `[08/31 23:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/31 23:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#96`](https://github.com//HaileyBot/captcha-generator/pull/96 'Bump @types/node from 16.7.7 to 16.7.9') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/31 09:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#40`](https://github.com//cheesits456/ReactionPics/issues/40 'Add "immaculate" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[08/31 09:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#39`](https://github.com//cheesits456/ReactionPics/issues/39 'Add "alcohol" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 <details><summary>Show More</summary>
 
+`[08/31 09:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#39`](https://github.com//cheesits456/ReactionPics/issues/39 'Add "alcohol" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[08/30 20:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/30 20:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#94`](https://github.com//HaileyBot/captcha-generator/pull/94 'Bump mocha from 9.1.0 to 9.1.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/30 20:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
