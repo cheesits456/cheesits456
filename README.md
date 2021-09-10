@@ -168,7 +168,6 @@
 `[06/20 03:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#56`](https://github.com//HaileyBot/captcha-generator/pull/56 'Bump mocha from 9.0.0 to 9.0.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[06/20 03:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[06/20 03:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#55`](https://github.com//HaileyBot/captcha-generator/pull/55 'Bump typescript from 4.3.2 to 4.3.4') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[06/09 12:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [raatmarien/my-qr.art](https://github.com/raatmarien/my-qr.art)  
 
 </details>
 <!--END_SECTION:activity-->
