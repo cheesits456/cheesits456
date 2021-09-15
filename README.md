@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/15 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BarjiYT/SnoSnow-Source](https://github.com/BarjiYT/SnoSnow-Source)  
 `[09/14 02:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#103`](https://github.com//HaileyBot/captcha-generator/issues/103 'Bump typescript from 4.4.2 to 4.4.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/14 02:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SebLague/Ray-Marching](https://github.com/SebLague/Ray-Marching)  
 `[09/13 08:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#98`](https://github.com//diogocavilha/fancy-git/pull/98 'Add stderr support') in [diogocavilha/fancy-git](https://github.com/diogocavilha/fancy-git)  
@@ -60,10 +61,10 @@
 `[09/13 05:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paarthmadan/cube](https://github.com/paarthmadan/cube)  
 `[09/11 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/social.cheesits456.dev](https://github.com/cheesits456/social.cheesits456.dev)  
 `[09/11 15:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[09/11 15:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#102`](https://github.com//HaileyBot/captcha-generator/pull/102 'Bump @types/node from 16.9.0 to 16.9.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 <details><summary>Show More</summary>
 
+`[09/11 15:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#102`](https://github.com//HaileyBot/captcha-generator/pull/102 'Bump @types/node from 16.9.0 to 16.9.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/09 18:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#101`](https://github.com//HaileyBot/captcha-generator/issues/101 'Bump @types/node from 16.7.13 to 16.9.0') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/09 18:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#100`](https://github.com//HaileyBot/captcha-generator/issues/100 'Bump source-map-support from 0.5.19 to 0.5.20') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/08 00:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
