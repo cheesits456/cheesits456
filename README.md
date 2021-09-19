@@ -51,6 +51,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/19 08:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [obrassard/shc-extractor](https://github.com/obrassard/shc-extractor)  
+`[09/19 08:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#41`](https://github.com//cheesits456/ReactionPics/issues/41 'Add "welp" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/19 07:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fproulx/shc-covid19-decoder](https://github.com/fproulx/shc-covid19-decoder)  
 `[09/17 19:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#104`](https://github.com//HaileyBot/captcha-generator/issues/104 'Bump @types/node from 16.9.1 to 16.9.2') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/15 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BarjiYT/SnoSnow-Source](https://github.com/BarjiYT/SnoSnow-Source)  
@@ -59,11 +61,11 @@
 `[09/13 08:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#98`](https://github.com//diogocavilha/fancy-git/pull/98 'Add stderr support') in [diogocavilha/fancy-git](https://github.com/diogocavilha/fancy-git)  
 `[09/13 08:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/fancy-git](https://github.com/cheesits456/fancy-git)  
 `[09/13 08:43]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [diogocavilha/fancy-git](https://github.com/diogocavilha/fancy-git) to [cheesits456/fancy-git](https://github.com/cheesits456/fancy-git)  
-`[09/13 08:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [diogocavilha/fancy-git](https://github.com/diogocavilha/fancy-git)  
-`[09/13 05:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paarthmadan/cube](https://github.com/paarthmadan/cube)  
 
 <details><summary>Show More</summary>
 
+`[09/13 08:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [diogocavilha/fancy-git](https://github.com/diogocavilha/fancy-git)  
+`[09/13 05:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paarthmadan/cube](https://github.com/paarthmadan/cube)  
 `[09/11 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/social.cheesits456.dev](https://github.com/cheesits456/social.cheesits456.dev)  
 `[09/11 15:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/11 15:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#102`](https://github.com//HaileyBot/captcha-generator/pull/102 'Bump @types/node from 16.9.0 to 16.9.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
