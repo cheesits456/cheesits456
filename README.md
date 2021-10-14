@@ -166,7 +166,6 @@
 `[07/13 11:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
 `[07/13 11:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#38`](https://github.com//vinceliuice/Layan-gtk-theme/issues/38 'Nautilus buttons change color') in [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
 `[07/13 11:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#38`](https://github.com//vinceliuice/Layan-gtk-theme/issues/38 'Nautilus buttons change color') in [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
-`[07/13 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/boredom](https://github.com/cheesits456/boredom)  
 
 </details>
 <!--END_SECTION:activity-->
