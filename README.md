@@ -143,10 +143,6 @@
 `[07/29 18:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[07/29 18:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#77`](https://github.com//HaileyBot/captcha-generator/pull/77 'Bump @types/node from 16.4.3 to 16.4.7') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[07/27 04:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#34`](https://github.com//cheesits456/ReactionPics/issues/34 'Add "smart" image ') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[07/26 18:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[07/26 18:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#75`](https://github.com//HaileyBot/captcha-generator/pull/75 'Bump @types/node from 16.4.1 to 16.4.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[07/26 18:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[07/26 18:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#74`](https://github.com//HaileyBot/captcha-generator/pull/74 'Bump mocha from 9.0.2 to 9.0.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
