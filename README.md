@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/30 08:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20`](https://github.com//loic2665/HeartRateToWeb/issues/20 'Server stops receiving data') in [loic2665/HeartRateToWeb](https://github.com/loic2665/HeartRateToWeb)  
 `[10/28 21:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
 `[10/18 20:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#117`](https://github.com//HaileyBot/captcha-generator/issues/117 'Bump @types/node from 16.10.2 to 16.11.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[10/18 20:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#115`](https://github.com//HaileyBot/captcha-generator/issues/115 'Bump mocha from 9.1.2 to 9.1.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
@@ -60,10 +61,10 @@
 `[10/09 00:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//cheesits456/Number-Guesser/issues/3 'plz help!!!!whyyyyyy') in [cheesits456/Number-Guesser](https://github.com/cheesits456/Number-Guesser)  
 `[10/07 03:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#43`](https://github.com//cheesits456/ReactionPics/issues/43 'Change "bruh" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[10/02 12:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/challengeBot](https://github.com/cheesits456/challengeBot)  
-`[10/02 12:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/fancy-git](https://github.com/cheesits456/fancy-git)  
 
 <details><summary>Show More</summary>
 
+`[10/02 12:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/fancy-git](https://github.com/cheesits456/fancy-git)  
 `[09/30 22:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#109`](https://github.com//HaileyBot/captcha-generator/issues/109 'Bump @types/node from 16.9.6 to 16.10.2') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/30 22:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#107`](https://github.com//HaileyBot/captcha-generator/issues/107 'Bump mocha from 9.1.1 to 9.1.2') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/30 12:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lkd70/termux](https://github.com/lkd70/termux)  
