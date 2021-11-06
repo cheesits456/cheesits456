@@ -140,9 +140,6 @@
 `[08/07 19:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#81`](https://github.com//HaileyBot/captcha-generator/pull/81 'Bump @types/node from 16.4.7 to 16.4.13') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/07 19:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/07 19:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#79`](https://github.com//HaileyBot/captcha-generator/pull/79 'Bump tar from 6.1.0 to 6.1.5') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/05 23:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
-`[08/05 23:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//HaileyBot/haileybot.github.io/pull/4 'Greatly improve experience for users with JavaScript disabled') in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
-`[08/05 16:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#35`](https://github.com//cheesits456/ReactionPics/issues/35 'add "science" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
