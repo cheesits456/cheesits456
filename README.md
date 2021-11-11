@@ -130,8 +130,6 @@
 `[08/12 06:46]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#37`](https://github.com//cheesits456/ReactionPics/issues/37 'Make "ehat" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[08/11 22:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/11 22:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#84`](https://github.com//HaileyBot/captcha-generator/pull/84 'Bump @types/node from 16.4.13 to 16.4.14') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/11 00:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
-`[08/11 00:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#36`](https://github.com//cheesits456/ReactionPics/issues/36 'add "not much" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
