@@ -116,8 +116,6 @@
 `[08/25 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Earthcomputer/EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker)  
 `[08/23 21:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/23 21:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#90`](https://github.com//HaileyBot/captcha-generator/pull/90 'Bump @types/node from 16.6.2 to 16.7.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/20 23:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/20 23:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#89`](https://github.com//HaileyBot/captcha-generator/pull/89 'Bump mocha from 9.0.3 to 9.1.0') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
