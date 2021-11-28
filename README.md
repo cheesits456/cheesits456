@@ -108,10 +108,6 @@
 `[08/30 20:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#94`](https://github.com//HaileyBot/captcha-generator/pull/94 'Bump mocha from 9.1.0 to 9.1.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/30 20:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[08/30 20:43]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#95`](https://github.com//HaileyBot/captcha-generator/pull/95 'Bump @types/node from 16.7.3 to 16.7.7') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/27 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/27 20:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#93`](https://github.com//HaileyBot/captcha-generator/pull/93 'Bump typescript from 4.3.5 to 4.4.2') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/27 20:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#92`](https://github.com//HaileyBot/captcha-generator/pull/92 'Bump @types/node from 16.7.1 to 16.7.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[08/27 20:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 
 </details>
 <!--END_SECTION:activity-->
