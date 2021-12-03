@@ -95,9 +95,6 @@
 `[09/08 00:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/08 00:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#99`](https://github.com//HaileyBot/captcha-generator/pull/99 'Bump @types/node from 16.7.10 to 16.7.13') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/05 09:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SebLague/Slime-Simulation](https://github.com/SebLague/Slime-Simulation)  
-`[09/02 05:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//daveter9/challengeBot/pull/2 'Fix markdown formatting issue') in [daveter9/challengeBot](https://github.com/daveter9/challengeBot)  
-`[09/02 05:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/challengeBot](https://github.com/cheesits456/challengeBot)  
-`[09/02 05:07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [daveter9/challengeBot](https://github.com/daveter9/challengeBot) to [cheesits456/challengeBot](https://github.com/cheesits456/challengeBot)  
 
 </details>
 <!--END_SECTION:activity-->
