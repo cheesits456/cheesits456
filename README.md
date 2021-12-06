@@ -94,7 +94,6 @@
 `[09/09 18:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#100`](https://github.com//HaileyBot/captcha-generator/issues/100 'Bump source-map-support from 0.5.19 to 0.5.20') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/08 00:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/08 00:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#99`](https://github.com//HaileyBot/captcha-generator/pull/99 'Bump @types/node from 16.7.10 to 16.7.13') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[09/05 09:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SebLague/Slime-Simulation](https://github.com/SebLague/Slime-Simulation)  
 
 </details>
 <!--END_SECTION:activity-->
