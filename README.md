@@ -82,11 +82,6 @@
 `[09/15 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BarjiYT/SnoSnow-Source](https://github.com/BarjiYT/SnoSnow-Source)  
 `[09/14 02:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#103`](https://github.com//HaileyBot/captcha-generator/issues/103 'Bump typescript from 4.4.2 to 4.4.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/14 02:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SebLague/Ray-Marching](https://github.com/SebLague/Ray-Marching)  
-`[09/13 08:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#98`](https://github.com//diogocavilha/fancy-git/pull/98 'Add stderr support') in [diogocavilha/fancy-git](https://github.com/diogocavilha/fancy-git)  
-`[09/13 08:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/fancy-git](https://github.com/cheesits456/fancy-git)  
-`[09/13 08:43]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [diogocavilha/fancy-git](https://github.com/diogocavilha/fancy-git) to [cheesits456/fancy-git](https://github.com/cheesits456/fancy-git)  
-`[09/13 08:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [diogocavilha/fancy-git](https://github.com/diogocavilha/fancy-git)  
-`[09/13 05:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paarthmadan/cube](https://github.com/paarthmadan/cube)  
 
 </details>
 <!--END_SECTION:activity-->
