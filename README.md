@@ -80,8 +80,6 @@
 `[09/19 07:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fproulx/shc-covid19-decoder](https://github.com/fproulx/shc-covid19-decoder)  
 `[09/17 19:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#104`](https://github.com//HaileyBot/captcha-generator/issues/104 'Bump @types/node from 16.9.1 to 16.9.2') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/15 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BarjiYT/SnoSnow-Source](https://github.com/BarjiYT/SnoSnow-Source)  
-`[09/14 02:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#103`](https://github.com//HaileyBot/captcha-generator/issues/103 'Bump typescript from 4.4.2 to 4.4.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[09/14 02:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SebLague/Ray-Marching](https://github.com/SebLague/Ray-Marching)  
 
 </details>
 <!--END_SECTION:activity-->
