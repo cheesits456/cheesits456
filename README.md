@@ -74,7 +74,6 @@
 `[09/30 12:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [roccomuso/termux](https://github.com/roccomuso/termux)  
 `[09/30 00:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [joeknock90/Single-GPU-Passthrough](https://github.com/joeknock90/Single-GPU-Passthrough)  
 `[09/29 01:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KernelZechs/open-joystick-display](https://github.com/KernelZechs/open-joystick-display)  
-`[09/27 10:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#42`](https://github.com//cheesits456/ReactionPics/issues/42 'Add heart image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
