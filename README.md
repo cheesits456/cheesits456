@@ -73,7 +73,6 @@
 `[09/30 12:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lkd70/termux](https://github.com/lkd70/termux)  
 `[09/30 12:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [roccomuso/termux](https://github.com/roccomuso/termux)  
 `[09/30 00:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [joeknock90/Single-GPU-Passthrough](https://github.com/joeknock90/Single-GPU-Passthrough)  
-`[09/29 01:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KernelZechs/open-joystick-display](https://github.com/KernelZechs/open-joystick-display)  
 
 </details>
 <!--END_SECTION:activity-->
