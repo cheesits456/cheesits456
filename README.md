@@ -72,7 +72,6 @@
 `[09/30 22:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#107`](https://github.com//HaileyBot/captcha-generator/issues/107 'Bump mocha from 9.1.1 to 9.1.2') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[09/30 12:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lkd70/termux](https://github.com/lkd70/termux)  
 `[09/30 12:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [roccomuso/termux](https://github.com/roccomuso/termux)  
-`[09/30 00:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [joeknock90/Single-GPU-Passthrough](https://github.com/joeknock90/Single-GPU-Passthrough)  
 
 </details>
 <!--END_SECTION:activity-->
