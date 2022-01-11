@@ -60,7 +60,6 @@
 `[10/18 20:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#115`](https://github.com//HaileyBot/captcha-generator/issues/115 'Bump mocha from 9.1.2 to 9.1.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[10/18 20:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#113`](https://github.com//HaileyBot/captcha-generator/issues/113 'Bump typescript from 4.4.3 to 4.4.4') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
 `[10/18 20:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#111`](https://github.com//HaileyBot/captcha-generator/issues/111 'Bump ts-node from 10.2.1 to 10.3.0') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)  
-`[10/10 07:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [loic2665/HeartRateToWeb](https://github.com/loic2665/HeartRateToWeb)  
 
 </details>
 <!--END_SECTION:activity-->
