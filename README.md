@@ -62,10 +62,6 @@
 `[11/28 03:53]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#44`](https://github.com//cheesits456/ReactionPics/issues/44 'Add "owo" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[11/19 11:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
-<details><summary>Show More</summary>
-
-`[10/30 08:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20`](https://github.com//loic2665/HeartRateToWeb/issues/20 'Server stops receiving data') in [loic2665/HeartRateToWeb](https://github.com/loic2665/HeartRateToWeb)  
-
 </details>
 <!--END_SECTION:activity-->
 
