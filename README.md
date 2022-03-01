@@ -60,7 +60,6 @@
 `[01/25 01:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//cheesits456/bash-wtf/issues/1 'Possibility to use vim instead of nano') in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[01/25 01:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[12/16 19:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StanTheAwesomeMan/minifetch](https://github.com/StanTheAwesomeMan/minifetch)  
-`[11/28 03:53]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#44`](https://github.com//cheesits456/ReactionPics/issues/44 'Add "owo" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
