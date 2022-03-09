@@ -51,6 +51,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/09 18:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/summonable-elder-guardians/tree/main) in [cheesits456/summonable-elder-guardians](https://github.com/cheesits456/summonable-elder-guardians)  
+`[03/09 18:42]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/summonable-elder-guardians](https://github.com/cheesits456/summonable-elder-guardians)  
 `[03/04 21:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FokaStudio/Fokas-Worldgen](https://github.com/FokaStudio/Fokas-Worldgen)  
 `[02/24 02:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials)  
 `[01/29 11:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1394`](https://github.com//YTVanced/Vanced/issues/1394 '[Idea] Integration with 3rd party like\dislike source - returnyoutubedislike') in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)  
@@ -59,6 +61,9 @@
 `[01/25 01:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[01/25 01:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//cheesits456/bash-wtf/issues/1 'Possibility to use vim instead of nano') in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[01/25 01:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//cheesits456/bash-wtf/issues/1 'Possibility to use vim instead of nano') in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
+
+<details><summary>Show More</summary>
+
 `[01/25 01:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[12/16 19:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StanTheAwesomeMan/minifetch](https://github.com/StanTheAwesomeMan/minifetch)  
 
