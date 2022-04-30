@@ -60,11 +60,6 @@
 `[03/09 18:42]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/summonable-elder-guardians](https://github.com/cheesits456/summonable-elder-guardians)  
 `[03/04 21:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FokaStudio/Fokas-Worldgen](https://github.com/FokaStudio/Fokas-Worldgen)  
 `[02/24 02:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials)  
-`[01/29 11:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1394`](https://github.com//YTVanced/Vanced/issues/1394 '[Idea] Integration with 3rd party like\dislike source - returnyoutubedislike') in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)  
-
-<details><summary>Show More</summary>
-
-`[01/29 11:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1394`](https://github.com//YTVanced/Vanced/issues/1394 '[Idea] Integration with 3rd party like\dislike source - returnyoutubedislike') in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)  
 
 </details>
 <!--END_SECTION:activity-->
