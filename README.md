@@ -60,7 +60,6 @@
 `[03/09 20:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/summonable-elder-guardians](https://github.com/cheesits456/summonable-elder-guardians)  
 `[03/09 18:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/summonable-elder-guardians/tree/main) in [cheesits456/summonable-elder-guardians](https://github.com/cheesits456/summonable-elder-guardians)  
 `[03/09 18:42]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/summonable-elder-guardians](https://github.com/cheesits456/summonable-elder-guardians)  
-`[03/04 21:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FokaStudio/Fokas-Worldgen](https://github.com/FokaStudio/Fokas-Worldgen)  
 
 </details>
 <!--END_SECTION:activity-->
