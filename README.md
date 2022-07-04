@@ -51,6 +51,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[07/04 13:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [phenax/bslock](https://github.com/phenax/bslock)  
 `[06/24 03:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[06/24 02:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#33`](https://github.com//cheesits456/ReactionPics/issues/33 'Add "stonks" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[06/24 02:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#33`](https://github.com//cheesits456/ReactionPics/issues/33 'Add "stonks" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -60,10 +61,10 @@
 `[06/24 02:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#35`](https://github.com//cheesits456/ReactionPics/issues/35 'add "science" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[06/24 02:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#35`](https://github.com//cheesits456/ReactionPics/issues/35 'add "science" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[06/24 02:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[06/24 02:41]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#40`](https://github.com//cheesits456/ReactionPics/issues/40 'Add "immaculate" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 <details><summary>Show More</summary>
 
+`[06/24 02:41]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#40`](https://github.com//cheesits456/ReactionPics/issues/40 'Add "immaculate" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[06/24 02:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#40`](https://github.com//cheesits456/ReactionPics/issues/40 'Add "immaculate" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[06/24 02:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[06/24 02:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#41`](https://github.com//cheesits456/ReactionPics/issues/41 'Add "welp" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
