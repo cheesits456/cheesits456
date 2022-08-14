@@ -12,7 +12,7 @@
 
 ## My Skills
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&hide=c,meson,makefile,python,m4" alt="cheesits456's Top Languages" align="right" width="330">
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&hide=c,meson,makefile,python,m4&theme=github_dark" alt="cheesits456's Top Languages" align="right" width="330">
 
 ![cheesits456's GitHub Stats][github-stats-img]
 
@@ -122,7 +122,7 @@ Follow me if you like my work, or perhaps even [Sponsor Me][sponsor]? ![](https:
 [email-img]: https://img.shields.io/badge/-E--Mail-e722e7?style=for-the-badge
 [email-link]: mailto:quin@cheesits456.dev
 
-[github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&count_private=true&show_icons=true&include_all_commits=true
+[github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
 [github-langs-img]: https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&hide=smarty
 
 [pin1-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=cheesits456&repo=cheesits456.github.io
