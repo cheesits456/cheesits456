@@ -12,7 +12,7 @@
 
 ## My Skills
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&hide=c,meson,makefile,python,m4&theme=github_dark" alt="cheesits456's Top Languages" align="right" width="330">
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,python,m4" alt="cheesits456's Top Languages" align="right" width="295">
 
 ![cheesits456's GitHub Stats][github-stats-img]
 
