@@ -72,7 +72,6 @@
 `[07/17 06:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/CheeseClik](https://github.com/cheesits456/CheeseClik)  
 `[07/17 06:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/CheeseClik/tree/main) in [cheesits456/CheeseClik](https://github.com/cheesits456/CheeseClik)  
 `[07/17 06:31]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/CheeseClik](https://github.com/cheesits456/CheeseClik)  
-`[07/04 13:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [phenax/bslock](https://github.com/phenax/bslock)  
 
 </details>
 <!--END_SECTION:activity-->
