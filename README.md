@@ -69,9 +69,6 @@
 `[08/14 06:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#52`](https://github.com//vinceliuice/Layan-gtk-theme/issues/52 'GTK4?') in [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
 `[08/14 01:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#33`](https://github.com//vinceliuice/Layan-gtk-theme/issues/33 'Add GTK4 support') in [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
 `[08/13 23:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/vote.haileybot.com](https://github.com/HaileyBot/vote.haileybot.com)  
-`[07/17 06:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/CheeseClik](https://github.com/cheesits456/CheeseClik)  
-`[07/17 06:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/CheeseClik/tree/main) in [cheesits456/CheeseClik](https://github.com/cheesits456/CheeseClik)  
-`[07/17 06:31]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/CheeseClik](https://github.com/cheesits456/CheeseClik)  
 
 </details>
 <!--END_SECTION:activity-->
