@@ -52,10 +52,6 @@
 
 <!--START_SECTION:activity-->
 `[08/16 13:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TheAlchemyShop/thealchemyshop.github.io](https://github.com/TheAlchemyShop/thealchemyshop.github.io)  
-`[08/15 01:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#52`](https://github.com//vinceliuice/Layan-gtk-theme/issues/52 'GTK4?') in [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
-`[08/15 01:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#52`](https://github.com//vinceliuice/Layan-gtk-theme/issues/52 'GTK4?') in [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
-`[08/15 01:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#33`](https://github.com//vinceliuice/Layan-gtk-theme/issues/33 'Add GTK4 support') in [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme)  
-`[08/15 01:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [odziom91/libadwaita-theme-changer](https://github.com/odziom91/libadwaita-theme-changer)  
 
 </details>
 <!--END_SECTION:activity-->
