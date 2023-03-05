@@ -50,7 +50,9 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[03/05 19:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
+`[03/05 20:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
+`[03/05 20:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
+`[03/05 20:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 `[03/05 19:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/JSON-parser-bash](https://github.com/cheesits456/JSON-parser-bash)  
 `[03/03 22:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒cheesits456/JSON-parser-bash`</span>  
 `[03/03 17:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred <span title="Private Repo">`🔒cheesits456/JSON-parser-bash`</span>  
@@ -58,11 +60,11 @@
 `[03/03 06:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 `[03/02 15:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
 `[03/01 07:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
-`[02/28 15:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
-`[02/28 06:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 
 <details><summary>Show More</summary>
 
+`[02/28 15:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
+`[02/28 06:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 `[02/27 02:21]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/discord.bash/tree/main) in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 `[02/27 02:21]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 `[02/20 22:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [cheesits456/asciibots-bash](https://github.com/cheesits456/asciibots-bash)  
