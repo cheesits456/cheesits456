@@ -76,8 +76,6 @@
 `[03/01 07:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 `[02/28 15:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 `[02/28 06:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
-`[02/27 02:21]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/discord.bash/tree/main) in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
-`[02/27 02:21]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 
 </details>
 <!--END_SECTION:activity-->
