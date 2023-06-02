@@ -73,7 +73,6 @@
 `[03/03 17:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒cheesits456/JSON-parser-bash`</span>  
 `[03/03 06:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 `[03/02 15:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
-`[03/01 07:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 
 </details>
 <!--END_SECTION:activity-->
