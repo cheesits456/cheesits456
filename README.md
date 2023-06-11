@@ -64,7 +64,6 @@
 <details><summary>Show More</summary>
 
 `[03/17 05:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [patorjk/figlet.js](https://github.com/patorjk/figlet.js)  
-`[03/10 06:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 
 </details>
 <!--END_SECTION:activity-->
