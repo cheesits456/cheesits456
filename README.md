@@ -61,10 +61,6 @@
 `[03/18 18:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/figlet-bash/tree/main) in [cheesits456/figlet-bash](https://github.com/cheesits456/figlet-bash)  
 `[03/18 18:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/figlet-bash](https://github.com/cheesits456/figlet-bash)  
 
-<details><summary>Show More</summary>
-
-`[03/17 05:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [patorjk/figlet.js](https://github.com/patorjk/figlet.js)  
-
 </details>
 <!--END_SECTION:activity-->
 
