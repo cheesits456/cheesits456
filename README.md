@@ -56,10 +56,6 @@
 `[03/29 15:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//cheesits456/JSON-parser-bash/issues/1 'Add an even warninger warning to the readme and archive this repo') in [cheesits456/JSON-parser-bash](https://github.com/cheesits456/JSON-parser-bash)  
 `[03/29 14:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15`](https://github.com//cheesits456/ReactionPics/issues/15 'rename "dunno" to "shrug"') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[03/24 18:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [cheesits456/figlet-bash](https://github.com/cheesits456/figlet-bash)  
-`[03/18 20:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/figlet-bash](https://github.com/cheesits456/figlet-bash)  
-`[03/18 20:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/figlet-bash](https://github.com/cheesits456/figlet-bash)  
-`[03/18 18:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/figlet-bash/tree/main) in [cheesits456/figlet-bash](https://github.com/cheesits456/figlet-bash)  
-`[03/18 18:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/figlet-bash](https://github.com/cheesits456/figlet-bash)  
 
 </details>
 <!--END_SECTION:activity-->
