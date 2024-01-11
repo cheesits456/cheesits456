@@ -50,7 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[09/09 03:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#46`](https://github.com//cheesits456/ReactionPics/issues/46 'Add "hi" image') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
+`[01/11 05:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#47`](https://github.com//cheesits456/ReactionPics/issues/47 'Add this for something idk') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
+`[01/11 05:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#47`](https://github.com//cheesits456/ReactionPics/issues/47 'Add this for something idk') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
