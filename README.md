@@ -51,7 +51,6 @@
 
 <!--START_SECTION:activity-->
 `[02/08 13:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thedemons/merge_color_emoji_font](https://github.com/thedemons/merge_color_emoji_font)  
-`[01/23 12:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#48`](https://github.com//cheesits456/ReactionPics/issues/48 'Add "stupid" image ') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
