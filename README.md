@@ -50,7 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[02/08 13:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thedemons/merge_color_emoji_font](https://github.com/thedemons/merge_color_emoji_font)  
+`[09/19 13:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
+`[09/19 13:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#47`](https://github.com//cheesits456/ReactionPics/issues/47 'Add this for something idk') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 </details>
 <!--END_SECTION:activity-->
