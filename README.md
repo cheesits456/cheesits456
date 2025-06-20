@@ -50,8 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[05/07 14:11]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/XMR-Price-Checker](https://github.com/cheesits456/XMR-Price-Checker)  
-`[05/07 14:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/XMR-Price-Checker/tree/main) in [cheesits456/XMR-Price-Checker](https://github.com/cheesits456/XMR-Price-Checker)  
+`[06/20 03:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/XMR-Price-Checker](https://github.com/cheesits456/XMR-Price-Checker)  
 
 </details>
 <!--END_SECTION:activity-->
