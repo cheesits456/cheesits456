@@ -50,7 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[06/20 03:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/XMR-Price-Checker](https://github.com/cheesits456/XMR-Price-Checker)  
+`[08/18 22:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BitJanitor/BitJanitor](https://github.com/BitJanitor/BitJanitor)  
 
 </details>
 <!--END_SECTION:activity-->
