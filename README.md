@@ -50,6 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/20 13:40]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.0`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.2.0) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/20 04:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/18 18:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/Random-Number-Generator](https://github.com/cheesits456/Random-Number-Generator)  
 `[09/18 18:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/XMR-Price-Checker](https://github.com/cheesits456/XMR-Price-Checker)  
@@ -59,10 +60,10 @@
 `[09/17 01:50]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.0`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.0.0) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/17 01:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/16 19:40]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
-`[09/16 19:40]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/RecipeBook/tree/main) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 
 <details><summary>Show More</summary>
 
+`[09/16 19:40]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/RecipeBook/tree/main) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/08 00:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [cheesits456/BitJanitor](https://github.com/cheesits456/BitJanitor)  
 `[09/01 19:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [cheesits456/BitJanitor](https://github.com/cheesits456/BitJanitor)  
 `[09/01 00:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
