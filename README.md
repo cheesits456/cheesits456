@@ -2,7 +2,7 @@
 
 ## About Me
 
-<p align="justify">I am a NodeJS developer with 15 years of coding experience.</p>
+<p align="justify">I am a NodeJS developer with 16 years of coding experience.</p>
 
 <p align="justify">I started in 2009 with HTML and CSS, making simple static web pages and expanding my knowledge over time. Around 2010/2011, I started to learn how to use JavaScript to create dynamic web apps. During this time I also learned a version of BASIC so I could program games for my 3DS using a DSi app called Petit Computer. In 2015 I found NodeJS and started using it to create some basic bots for various chat platforms.</p>
 
@@ -10,7 +10,7 @@
 
 <p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES11. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
 
-<p align="justify">Most recently I've been trying to get better at bash scripting, so I'm trying to find simple projects written in other languages that I can port to bash. My <a href="https://github.com/cheesits456/asciibots-bash">asciibots-bash</a> project is one example of this, and in the future I hope to find more projects like it that I can port to bash.</p>
+<p align="justify">Most recently I've been trying to get better at bash scripting, so I'm trying to find simple projects written in other languages that I can port to bash. My <a href="https://github.com/cheesits456/asciibots-bash">asciibots-bash</a> project is one example of this. I'm also working on learning how to make GUI applications, such as my <a href="https://github.com/cheesits456/RecipeBook">RecipeBook</a> application.</p>
 
 ## My Skills
 
