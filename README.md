@@ -50,9 +50,19 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/22 01:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
+`[09/22 01:26]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.5.1`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.5.1) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
+`[09/22 01:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
+`[09/22 01:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
+`[09/22 00:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
+`[09/22 00:47]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.5.0`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.5.0) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
+`[09/22 00:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/21 21:57]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.3`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.4.3) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/21 21:55]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.2`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.4.2) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/21 21:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
+
+<details><summary>Show More</summary>
+
 `[09/21 21:19]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.1`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.4.1) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/21 21:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/21 04:38]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.0`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.4.0) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
@@ -60,9 +70,6 @@
 `[09/20 21:22]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.1`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.3.1) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/20 21:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/20 20:14]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.0`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.3.0) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
-
-<details><summary>Show More</summary>
-
 `[09/20 19:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/20 13:40]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.0`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.2.0) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/20 04:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
