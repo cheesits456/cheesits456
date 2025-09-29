@@ -50,9 +50,19 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/29 02:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/Electron-Calculator](https://github.com/cheesits456/Electron-Calculator)  
+`[09/29 02:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/Electron-App-Template](https://github.com/cheesits456/Electron-App-Template)  
+`[09/29 02:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/DailyLog](https://github.com/cheesits456/DailyLog)  
+`[09/29 02:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [cheesits456/Electron-Calculator](https://github.com/cheesits456/Electron-Calculator)  
+`[09/29 02:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/Electron-Calculator/tree/main) in [cheesits456/Electron-Calculator](https://github.com/cheesits456/Electron-Calculator)  
+`[09/29 02:04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/Electron-Calculator](https://github.com/cheesits456/Electron-Calculator)  
+`[09/29 01:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cheesits456/Electron-App-Template](https://github.com/cheesits456/Electron-App-Template)  
 `[09/29 01:41]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cheesits456/Electron-App-Template](https://github.com/cheesits456/Electron-App-Template)  
 `[09/29 01:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/Electron-App-Template/tree/main) in [cheesits456/Electron-App-Template](https://github.com/cheesits456/Electron-App-Template)  
 `[09/29 01:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `45` commits in [cheesits456/DailyLog](https://github.com/cheesits456/DailyLog)  
+
+<details><summary>Show More</summary>
+
 `[09/24 13:42]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.5.9`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.5.9) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/24 13:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/22 01:26]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.5.1`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.5.1) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
@@ -60,9 +70,6 @@
 `[09/22 01:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[09/22 00:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/22 00:47]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.5.0`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.5.0) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
-
-<details><summary>Show More</summary>
-
 `[09/22 00:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/21 21:57]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.3`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.4.3) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/21 21:55]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.2`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.4.2) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
