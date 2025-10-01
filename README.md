@@ -95,7 +95,6 @@
 `[09/16 19:40]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/RecipeBook/tree/main) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/08 00:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [cheesits456/BitJanitor](https://github.com/cheesits456/BitJanitor)  
 `[09/01 19:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [cheesits456/BitJanitor](https://github.com/cheesits456/BitJanitor)  
-`[09/01 00:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [cheesits456/discord.bash](https://github.com/cheesits456/discord.bash)  
 
 </details>
 <!--END_SECTION:activity-->
