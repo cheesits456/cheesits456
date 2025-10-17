@@ -125,7 +125,6 @@
 `[09/17 04:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/17 01:50]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.0`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.0.0) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/17 01:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
-`[09/16 19:40]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/RecipeBook/tree/main) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 
 </details>
 <!--END_SECTION:activity-->
