@@ -114,8 +114,6 @@
 `[09/20 19:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/20 13:40]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.0`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.2.0) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/20 04:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
-`[09/18 18:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/Random-Number-Generator](https://github.com/cheesits456/Random-Number-Generator)  
-`[09/18 18:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/XMR-Price-Checker](https://github.com/cheesits456/XMR-Price-Checker)  
 
 </details>
 <!--END_SECTION:activity-->
