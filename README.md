@@ -104,8 +104,6 @@
 `[09/21 21:57]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.3`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.4.3) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/21 21:55]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.2`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.4.2) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 `[09/21 21:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
-`[09/21 21:19]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.4.1`](https://github.com/cheesits456/RecipeBook/releases/tag/v1.4.1) in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
-`[09/21 21:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/RecipeBook](https://github.com/cheesits456/RecipeBook)  
 
 </details>
 <!--END_SECTION:activity-->
