@@ -68,7 +68,6 @@
 `[10/05 01:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/Electron-Calculator](https://github.com/cheesits456/Electron-Calculator)  
 `[10/02 05:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/bash-wtf](https://github.com/cheesits456/bash-wtf)  
 `[10/02 04:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/Electron-Calculator](https://github.com/cheesits456/Electron-Calculator)  
-`[10/01 01:09]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.0`](https://github.com/cheesits456/Electron-Calculator/releases/tag/v1.0.0) in [cheesits456/Electron-Calculator](https://github.com/cheesits456/Electron-Calculator)  
 
 </details>
 <!--END_SECTION:activity-->
