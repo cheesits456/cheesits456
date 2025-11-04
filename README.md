@@ -64,8 +64,6 @@
 <details><summary>Show More</summary>
 
 `[10/05 19:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/Electron-App-Template](https://github.com/cheesits456/Electron-App-Template)  
-`[10/05 02:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/DailyLog](https://github.com/cheesits456/DailyLog)  
-`[10/05 01:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/Electron-Calculator](https://github.com/cheesits456/Electron-Calculator)  
 
 </details>
 <!--END_SECTION:activity-->
