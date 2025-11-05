@@ -61,10 +61,6 @@
 `[10/05 19:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/GastroTracker](https://github.com/cheesits456/GastroTracker)  
 `[10/05 19:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/GastroTracker/tree/main) in [cheesits456/GastroTracker](https://github.com/cheesits456/GastroTracker)  
 
-<details><summary>Show More</summary>
-
-`[10/05 19:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/Electron-App-Template](https://github.com/cheesits456/Electron-App-Template)  
-
 </details>
 <!--END_SECTION:activity-->
 
