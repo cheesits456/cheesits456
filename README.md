@@ -52,8 +52,6 @@
 <!--START_SECTION:activity-->
 `[10/14 08:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/DailyLog](https://github.com/cheesits456/DailyLog)  
 `[10/13 20:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/GastroTracker](https://github.com/cheesits456/GastroTracker)  
-`[10/08 01:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred <span title="Private Repo">`🔒cheesits456/github-readme-stats`</span>  
-`[10/08 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/GastroTracker](https://github.com/cheesits456/GastroTracker)  
 
 </details>
 <!--END_SECTION:activity-->
