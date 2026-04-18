@@ -50,9 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[12/29 20:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/Media-Server-Redirect](https://github.com/cheesits456/Media-Server-Redirect)  
-`[12/29 20:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/Media-Server-Redirect](https://github.com/cheesits456/Media-Server-Redirect)  
-`[12/29 20:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/Media-Server-Redirect/tree/main) in [cheesits456/Media-Server-Redirect](https://github.com/cheesits456/Media-Server-Redirect)  
+`[04/18 03:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in <span title="Private Repo">`🔒MeltyMooncakes/Haileybot`</span>  
 
 </details>
 <!--END_SECTION:activity-->
