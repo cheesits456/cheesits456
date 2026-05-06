@@ -1,7 +1,5 @@
 <h1>cheesits456 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h1>
 
-![Banner image][banner-img]
-
 ## About Me
 
 <p align="justify">I am a NodeJS developer with 16 years of coding experience.</p>
