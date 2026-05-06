@@ -1,3 +1,5 @@
+![Banner image][banner-img]
+
 <h1>cheesits456 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h1>
 
 ## About Me
