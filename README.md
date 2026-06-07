@@ -50,7 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[05/07 22:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/Base64-Converter](https://github.com/cheesits456/Base64-Converter)  
+`[05/07 22:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/Base64-Converter](https://github.com/cheesits456/Base64-Converter)  
 
 </details>
 <!--END_SECTION:activity-->
