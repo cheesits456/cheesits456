@@ -50,7 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[05/07 22:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/Base64-Converter](https://github.com/cheesits456/Base64-Converter)  
+`[06/11 01:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VioletTheCheeseGuy/My-Subnautica-Mods](https://github.com/VioletTheCheeseGuy/My-Subnautica-Mods)  
 
 </details>
 <!--END_SECTION:activity-->
