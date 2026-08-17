@@ -54,7 +54,6 @@
 `[07/20 23:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#18736`](https://github.com//files-community/Files/issues/18736 'Bug: Drive entry on Files \'Home\' screen duplicates when assigning a new drive letter') in [files-community/Files](https://github.com/files-community/Files)  
 `[07/18 14:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [files-community/Files](https://github.com/files-community/Files)  
 `[07/18 14:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
-`[07/18 14:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#18736`](https://github.com//files-community/Files/issues/18736 'Bug: Drive entry on Files \'Home\' screen duplicates when assigning a new drive letter') in [files-community/Files](https://github.com/files-community/Files)  
 
 </details>
 <!--END_SECTION:activity-->
