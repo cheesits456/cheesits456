@@ -50,7 +50,9 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[09/04 01:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/PiSecure](https://github.com/cheesits456/PiSecure)  
+`[09/04 02:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/PiSecure](https://github.com/cheesits456/PiSecure)  
+`[09/05 23:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Rapptz/discord.py](https://github.com/Rapptz/discord.py)  
+`[09/04 02:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/PiSecure](https://github.com/cheesits456/PiSecure)  
 `[08/30 22:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cheesits456/PiSecure/tree/main) in [cheesits456/PiSecure](https://github.com/cheesits456/PiSecure)  
 `[08/28 18:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
 `[08/28 13:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
@@ -58,11 +60,11 @@
 `[08/28 15:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/cheesits456.github.io](https://github.com/cheesits456/cheesits456.github.io)  
 `[08/28 14:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
 `[08/28 13:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[08/28 18:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
-`[08/28 22:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 
 <details><summary>Show More</summary>
 
+`[08/28 18:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
+`[08/28 22:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[08/28 18:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
 `[08/27 16:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[08/28 15:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)  
