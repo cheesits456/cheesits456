@@ -53,8 +53,6 @@
 `[09/21 13:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
 `[09/16 17:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/PiSecure](https://github.com/cheesits456/PiSecure)  
 `[09/13 21:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/PiSecure](https://github.com/cheesits456/PiSecure)  
-`[09/05 23:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Rapptz/discord.py](https://github.com/Rapptz/discord.py)  
-`[09/04 02:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [cheesits456/PiSecure](https://github.com/cheesits456/PiSecure)  
 
 </details>
 <!--END_SECTION:activity-->
